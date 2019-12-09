@@ -1,0 +1,23 @@
+<package>
+	<id>com.maxleiter.rev</id>
+	<name>Cal</name>
+	<version>2.34.354-90084</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This utility basically reverses the order of the characters in each line by copying the specified files to the standard output. If no files are specified, then the standard input will read.</shortDescription>
+	<descriptionlist>
+		<description>Modifies /usr/local/bin and /usr/local/lib.</description>
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+	</links>
+</package>
