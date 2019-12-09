@@ -3,10 +3,10 @@ Version: 4.11.0+dev0-2019-10-18
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.ocaml.deb
-Size: 17216036
-MD5sum: d8ea9b7a068ed0071d7e898aa0b3534b
-SHA1: 77c811a7dcdc5cf7775a34e0f7b682ea94134e90
-SHA256: f4083e90520dbaf90b885a0279ea1021b1272d7b48ab2f5f183feeda0ccff440
+Size: 17216556
+MD5sum: 5d882e8459020aa33770376112a8b88e
+SHA1: 04a4729918d9cc6525083b6e22125db0b442d267
+SHA256: 3fb22709f9d7f0f529198c82d4b0386384781da3b4f389425e2db21345125e42
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: OCaml port to iOS. Installs to /usr/local/bin. Warning: 17Mb
@@ -21,9 +21,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: gettext | com.mc.gettext
 Filename: ./debs/com.maxleiter.rev.deb
 Size: 5480
-MD5sum: 0830bac77de341f43b56f22730808b4e
-SHA1: e0518854a1c17111f213e7e9901082a375821cba
-SHA256: 69b04349583380a440d887e60d25d3d53389f54137872b0dfc27302a8459183d
+MD5sum: 8bdb73465e0ff55c7cce785ed1f27c2a
+SHA1: 4256da15918cb20694c407c5ecb24027195db920
+SHA256: fd5f61ec541a6c6d47ee8861bfff342333a190566294da497a557c7aedef6763
 Section: Utilities
 Homepage: https://github.com/maxleiter/cydia
 Description: Reverses stdout
