@@ -7,4 +7,5 @@ Homepage: https://github.com/maxleiter/cydia
 Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.rev
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Author: Max L
+Depends: gettext
 Section: Utilities
