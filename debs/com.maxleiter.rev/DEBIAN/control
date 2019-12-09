@@ -1,0 +1,10 @@
+Package: com.maxleiter.rev
+Name: rev
+Version: 2.34.354-90084
+Architecture: iphoneos-arm
+Description: Reverses stduot
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/Cyda/depictions/?p=com.maxleiter.rev
+Maintainer: Max Leiter (maxwell.leiter@gmail.com)
+Author: Max Leiter (maxwell.leiter@gmail.com)
+Section: Utilities
