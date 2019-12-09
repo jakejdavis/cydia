@@ -4,7 +4,7 @@ Version: 2.34.354-90084
 Architecture: iphoneos-arm
 Description: Reverses stdout
 Homepage: https://github.com/maxleiter/cydia
-Depiction: https://maxleiter.com/Cyda/depictions/?p=com.maxleiter.rev
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.rev
 Maintainer: Max Leiter (maxwell.leiter@gmail.com)
 Author: Max Leiter (maxwell.leiter@gmail.com)
 Section: Utilities
