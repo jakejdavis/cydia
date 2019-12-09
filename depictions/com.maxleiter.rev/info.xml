@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
-		</firmware>
+		</firmware>n
 	</compatibility>
 	<dependencies>
 		<package>gettext</package>
@@ -13,8 +13,17 @@
 	<shortDescription>This utility basically reverses the order of the characters in each line by copying the specified files to the standard output. If no files are specified, then the standard input will read.</shortDescription>
 	<descriptionlist>
 		<description>Installs to /usr/local/bin. </description>
-		</description>
 	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
