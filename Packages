@@ -1,0 +1,33 @@
+Package: com.maxleiter.ocaml
+Version: 4.11.0+dev0-2019-10-18
+Architecture: iphoneos-arm
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Filename: ./debs/com.maxleiter.ocaml.deb
+Size: 17216036
+MD5sum: d8ea9b7a068ed0071d7e898aa0b3534b
+SHA1: 77c811a7dcdc5cf7775a34e0f7b682ea94134e90
+SHA256: f4083e90520dbaf90b885a0279ea1021b1272d7b48ab2f5f183feeda0ccff440
+Section: Development
+Homepage: https://github.com/maxleiter/cydia
+Description: OCaml port to iOS. Installs to /usr/local/bin. Warning: 17Mb
+Author: Max L
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.ocaml
+Name: OCaml
+
+Package: com.maxleiter.rev
+Version: 2.34.354-90084
+Architecture: iphoneos-arm
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Depends: gettext | com.mc.gettext
+Filename: ./debs/com.maxleiter.rev.deb
+Size: 5480
+MD5sum: 0830bac77de341f43b56f22730808b4e
+SHA1: e0518854a1c17111f213e7e9901082a375821cba
+SHA256: 69b04349583380a440d887e60d25d3d53389f54137872b0dfc27302a8459183d
+Section: Utilities
+Homepage: https://github.com/maxleiter/cydia
+Description: Reverses stdout
+Author: Max L
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.rev
+Name: rev
+

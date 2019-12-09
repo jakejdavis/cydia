@@ -1,0 +1,21 @@
+<package>
+	<id>com.maxleiter.ocaml</id>
+	<name>OCaml</name>
+	<version>4.11.0+dev0-2019-10-18</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>n
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>OCaml for iOS</shortDescription>
+	<descriptionlist>
+		<description>Installs to /usr/local/bin. </description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+	</links>
+</package>

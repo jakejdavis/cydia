@@ -1,0 +1,10 @@
+Package: com.maxleiter.ocaml
+Name: OCaml
+Version: 4.11.0+dev0-2019-10-18
+Architecture: iphoneos-arm
+Description: OCaml port to iOS. Installs to /usr/local/bin. Warning: 17Mb
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.ocaml
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Development
