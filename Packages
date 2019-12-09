@@ -1,13 +1,16 @@
-Package: com.maxleiter.cal
-Version: 2.0.0-1
-Section: Tools
-Maintainer: Max Leiter <maxwell.leiter@gmail.com>
-Depends: firmware (>13.0), mobilesubstrate
+Package: com.maxleiter.rev
+Version: 2.34.354-90084
 Architecture: iphoneos-arm
-Filename: ./debs/com.maxleiter.cal_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: cal is a standard program on Unix and Unix-like operating systems that prints an ASCII calendar of the given month or year. If the user does not specify any command-line options, cal will print a calendar of the current month.
-Name: New Package
-Authr: Max Leiter <maxwell.leiter@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.maxleiter.cal
+Maintainer: Max Leiter (maxwell.leiter@gmail.com)
+Filename: ./debs/com.maxleiter.rev.deb
+Size: 27456
+MD5sum: f1e4599fa5b9d8cde20d55b28a6c73de
+SHA1: 4834f7de6d8c13896a8fa9ded9ca0f839f24d633
+SHA256: f02d1c5e817f8cbaae29aec84274d2e771a250e7069471f9e37e6cb42df51725
+Section: Utilities
+Homepage: https://github.com/maxleiter/cydia
+Description: Reverses stduot
+Author: Max Leiter (maxwell.leiter@gmail.com)
+Depiction: https://maxleiter.com/Cyda/depictions/?p=com.maxleiter.rev
+Name: rev
+
