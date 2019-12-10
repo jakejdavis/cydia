@@ -1,0 +1,10 @@
+Package: com.maxleiter.watch
+Name: watch
+Version: 0.3.1
+Architecture: iphoneos-arm
+Description: watch(1) periodically executes the given command - useful for auto-testing, auto-building, auto-anything
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.watch
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Utilities
