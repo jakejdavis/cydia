@@ -1,0 +1,23 @@
+<package>
+	<id>com.maxleiter.watch</id>
+	<name>watch</name>
+	<version>0.3.1/version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>n
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>
+		watch(1) periodically executes the given command - useful for auto-testing, auto-building, auto-anything
+	</shortDescription>
+	<descriptionlist>
+		<description>Installs to /usr/local/bin. </description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+	</links>
+</package>
