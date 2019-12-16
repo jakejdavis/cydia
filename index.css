@@ -84,10 +84,10 @@ span {
 }
 
 .cursor4 {
-  -webkit-animation: blink 1s 6.5s infinite;
-  -moz-animation: blink 1s 6.5s infinite;
-  -o-animation: blink 1s 6.5s infinite;
-  animation: blink 1s 6.5s infinite;
+  -webkit-animation: blink 1s 6.5s forwards;
+  -moz-animation: blink 1s 6.5s forwards;
+  -o-animation: blink 1s 6.5s forwards;
+  animation: blink 1s 6.5s forwards;
 }
 
 .line5 {
