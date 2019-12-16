@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.ocaml.deb
 Size: 17213780
-MD5sum: a997b1c6fca1de663c87d9991a63c50c
-SHA1: ded75defbcb7e46e08dd0f4f2d8828ec45871551
-SHA256: 0e22920f2ce6bb471cef8ae84f1cc0803079cfb67c62f3f8f9bd0d22624d205a
+MD5sum: a55807ea1f388cad4fa999f69b1531dd
+SHA1: 85451ed71c3a158dd8db71886cdad88b4ac7265f
+SHA256: 1e261683f55f8b6818d4cc9a849681b05e344896b5f7008deea470d566114764
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: OCaml port to iOS. Installs to /usr/local/bin. Warning: 17Mb
@@ -21,9 +21,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: gettext | com.mc.gettext
 Filename: ./debs/com.maxleiter.rev.deb
 Size: 4160
-MD5sum: 60bd3aee9a789b6d5d4b88099b422f9d
-SHA1: ef7effd57e3b7cd8bef387099cbbc34b503b9618
-SHA256: 659a2eeff678b5fe843b39b9bd7f5f5243b48e335c257dcbd1c0cfccbbc95b6e
+MD5sum: 08da58ca83a1a83832b1edd6edde7838
+SHA1: beffcfa4cd6758a3b6fc7bc0f138e081fd06d1b4
+SHA256: a4b602d8eeaec6b0ac32eae9d47c755bea4bc444c1b76062e384b9597e2895d2
 Section: Utilities
 Homepage: https://github.com/maxleiter/cydia
 Description: Reverses stdout
@@ -31,15 +31,32 @@ Author: Max L
 Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.rev
 Name: rev
 
+Package: com.maxleiter.util-linux
+Version: 2.34
+Architecture: iphoneos-arm
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Depends: com.mc.ncurses
+Filename: ./debs/com.maxleiter.util-linux.deb
+Size: 150784
+MD5sum: c5e2d40314df5ca680fa38cfaff6332b
+SHA1: 756dc274d26d2125715e99611dda6e374739372f
+SHA256: 69e4809664ecca43cd31999ef7ec9a09180e0df2b2227f9533f2c424d63b0319
+Section: Utilities
+Homepage: https://github.com/maxleiter/cydia
+Description: Common linux programs. more, less, mkfs, cal, rev, etc.
+Author: Max L
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.util-linux
+Name: util-linux
+
 Package: com.maxleiter.watch
 Version: 0.3.1
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.watch.deb
 Size: 5208
-MD5sum: 279e0056ca1dcfdd3e1c8d2281ca50ec
-SHA1: 079d723c6d4e5cae9e3c136386ae5b259c45607f
-SHA256: fbc9fb3e353dd9ef677d657e9991255ba2866bfe231f9cd5cc11385e23ff91d7
+MD5sum: 938c1236a5ca206a1d343c9fee2133c8
+SHA1: 0adad3024569e6a18342aa5f687a6376cdfa3aef
+SHA256: 46288e2464686c9347515e7bcd25fb0c59c64401421d395747c6f4d5bd5c8f96
 Section: Utilities
 Homepage: https://github.com/maxleiter/cydia
 Description: watch(1) periodically executes the given command - useful for auto-testing, auto-building, auto-anything
