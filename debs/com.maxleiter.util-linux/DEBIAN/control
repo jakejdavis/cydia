@@ -1,11 +1,11 @@
-Package: com.maxleiter.rev
-Name: rev
-Version: 2.34.354-90084
+Package: com.maxleiter.util-linux
+Name: util-linux
+Version: 2.34
 Architecture: iphoneos-arm
-Description: Reverses stdout
+Description: Common linux programs. more, less, mkfs, cal, rev, etc.
 Homepage: https://github.com/maxleiter/cydia
-Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.rev
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.util-linux
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Author: Max L
-Depends: gettext | com.mc.gettext
+Depends: com.mc.ncurses
 Section: Utilities

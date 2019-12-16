@@ -1,0 +1,22 @@
+<package>
+	<id>com.maxleiter.util-linux</id>
+	<name>util-linux</name>
+	<version>2.34</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>n
+	</compatibility>
+	<dependencies>
+		<package>ncurses</package>
+	</dependencies>
+	<shortDescription>Common linux programs: cal cfdisk col colcrt colrm column fdisk findfs flock getopt hardlink hexdump ipcmk isosize line mesg mkfs logger look mcookie pg rename renice rev nologin newgrp namei more mkfs uuidgen uuidparse wall whereis wipefs ul swaplabel sfdisk </shortDescription>
+	<descriptionlist>
+		<description>Installs to /usr/local/bin. </description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+	</links>
+</package>
