@@ -1,0 +1,10 @@
+Package: com.maxleiter.desktop-file-utils
+Name: desktop-file-utils
+Version: 0.24 
+Architecture: iphoneos-arm
+Description: Installs to /usr/local/bin. Warning: 17Mb
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: X11

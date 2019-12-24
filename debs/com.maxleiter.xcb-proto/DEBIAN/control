@@ -1,0 +1,10 @@
+Package: com.maxleiter.xcb-proto
+Name: xcb-proto
+Version: 4.11.0+dev0-2019-10-18
+Architecture: iphoneos-arm
+Description: xcb-proto port to iOS. Installs to /usr/local
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: X11

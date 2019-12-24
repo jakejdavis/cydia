@@ -1,0 +1,10 @@
+Package: com.maxleiter.ninja
+Name: Ninja build tool
+Version: 1.9.0
+Architecture: iphoneos-arm
+Description: Ninja port to iOS. Installs to /usr/local
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Development

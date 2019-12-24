@@ -1,0 +1,10 @@
+Package: com.maxleiter.autoconf
+Name: autoconf
+Version: 2.69 
+Architecture: iphoneos-arm
+Description: autoconf. Installs to /usr/local/bin.
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Development

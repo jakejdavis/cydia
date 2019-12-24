@@ -1,0 +1,10 @@
+Package: com.maxleiter.gperf
+Name: gperf
+Version: 6.37
+Architecture: iphoneos-arm
+Description: Gperf port to iOS. Installs to /usr/local/bin.
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Development

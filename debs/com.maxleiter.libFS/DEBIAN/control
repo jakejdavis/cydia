@@ -1,0 +1,10 @@
+Package: com.maxleiter.libFS
+Name: libFS
+Version: 1.0.8
+Architecture: iphoneos-arm
+Description: libFS port to iOS. Installs to /usr/local.
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: X11
