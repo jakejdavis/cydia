@@ -1,7 +1,7 @@
 <package>
 	<id>com.maxleiter.temp</id>
 	<name>/insert name here/</name>
-	<version>/some version/</version>
+	<version></version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -9,9 +9,9 @@
 	</compatibility>
 	<dependencies>
 	</dependencies>
-	<shortDescription>Some tool or library for iOS. Probably for Xorg or something.</shortDescription>
+	<shortDescription>Some tool or library for iOS, probably for Xorg. </shortDescription>
 	<descriptionlist>
-		<description>Installs to /usr/local. iOS 12+. </description>
+		<description>Installs to /usr/local. iOS 12+. Dependencies aren't setup, I'm working on it. The package version is the version I packaged. </description>
 	</descriptionlist>
 	<changelog>
 	</changelog>

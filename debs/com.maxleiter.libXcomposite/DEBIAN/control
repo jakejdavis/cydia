@@ -1,0 +1,10 @@
+Package: com.maxleiter.libXcomposite
+Name: libXcomposite
+Version: 0.4.5
+Architecture: iphoneos-arm
+Description: libXcomposite port to iOS. Installs to /usr/local
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: X11

@@ -1,0 +1,10 @@
+Package: com.maxleiter.libdmx
+Name: libdmx
+Version: 1.1.4
+Architecture: iphoneos-arm
+Description: libdmx port to iOS. Installs to /usr/local
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: X11
