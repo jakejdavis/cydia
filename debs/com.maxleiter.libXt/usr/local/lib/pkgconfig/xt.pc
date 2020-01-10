@@ -2,7 +2,7 @@ prefix=/usr/local
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
-appdefaultdir=/usr/local/share/X11/app-defaults
+appdefaultdir=/etc/X11/app-defaults
 datarootdir=${prefix}/share
 errordbdir=${datarootdir}/X11
 

@@ -1,0 +1,10 @@
+Package: com.maxleiter.xlsclients
+Name: xlsclients
+Version: 1.0.7
+Architecture: iphoneos-arm
+Description: xlsclients port to iOS. Installs to /usr/local
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: X11

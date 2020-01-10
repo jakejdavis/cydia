@@ -30,7 +30,6 @@
 #include <X11/Xlib.h>
 #include <X11/extensions/XI2.h>
 #include <X11/extensions/Xge.h>
-#include <X11/extensions/Xfixes.h> /* PointerBarrier */
 
 /*******************************************************************
  *
@@ -170,6 +169,7 @@ typedef struct
     int                 status;
 } XIGrabModifiers;
 
+typedef XID PointerBarrier;
 typedef unsigned int BarrierEventID;
 
 typedef struct

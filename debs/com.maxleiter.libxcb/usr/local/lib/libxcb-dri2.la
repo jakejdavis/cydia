@@ -5,13 +5,13 @@
 # It is necessary for linking the library.
 
 # The name that we can dlopen(3).
-dlname=''
+dlname='libxcb-dri2.0.dylib'
 
 # Names of this library.
-library_names=''
+library_names='libxcb-dri2.0.dylib libxcb-dri2.dylib'
 
 # The name of the static archive.
-old_library='libxcb-dri2.a'
+old_library=''
 
 # Linker flags that cannot go in dependency_libs.
 inherited_linker_flags=' '

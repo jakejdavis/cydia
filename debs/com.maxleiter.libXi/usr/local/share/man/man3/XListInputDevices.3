@@ -1,13 +1,13 @@
 '\" t
 .\"     Title: xlistinputdevices
 .\"    Author: [FIXME: author] [see http://docbook.sf.net/el/author]
-.\" Generator: DocBook XSL Stylesheets v1.79.1 <http://docbook.sf.net/>
-.\"      Date: 06/19/2019
-.\"    Manual: \ \&
-.\"    Source: \ \&
+.\" Generator: DocBook XSL Stylesheets v1.77.1 <http://docbook.sf.net/>
+.\"      Date: 02/19/2013
+.\"    Manual: XINPUT FUNCTIONS
+.\"    Source: X Version 11
 .\"  Language: English
 .\"
-.TH "XLISTINPUTDEVICES" "3" "06/19/2019" "\ \&" "\ \&"
+.TH "XLISTINPUTDEVICES" "3" "02/19/2013" "X Version 11" "XINPUT FUNCTIONS"
 .\" -----------------------------------------------------------------
 .\" * Define some portability stuff
 .\" -----------------------------------------------------------------
@@ -52,13 +52,13 @@ display
 .nf
 ndevices_return
        Specifies a pointer to a variable where the number of
-       available devices can be returned\&.
+       available devices canbe returned\&.
 .fi
 .sp
 .nf
 list
        Specifies the list of devices to free\&. The
-       XFreeDeviceList function frees the list of available
+       XFreeDeviceList functionfrees the list of available
        extension input devices\&.
 .fi
 .SH "DESCRIPTION"
@@ -553,27 +553,13 @@ the device ID of the master device this device is paired with\&.
 .if n \{\
 .RE
 .\}
-.SH "RETURN VALUE"
 .sp
 .if n \{\
 .RS 4
 .\}
 .nf
-XListInputDevices returns a pointer to an array of XDeviceInfo
-structs and sets ndevices_return to the number of elements in
-that array\&. To free the XDeviceInfo array created by
-XListInputDevices, use XFreeDeviceList\&.
-.fi
-.if n \{\
-.RE
-.\}
-.sp
-.if n \{\
-.RS 4
-.\}
-.nf
-On error, XListInputDevices returns NULL and ndevices_return is
-left unmodified\&.
+To free the XDeviceInfo array created by XListInputDevices, use
+XFreeDeviceList\&.
 .fi
 .if n \{\
 .RE

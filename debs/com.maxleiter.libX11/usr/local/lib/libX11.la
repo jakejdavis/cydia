@@ -5,13 +5,13 @@
 # It is necessary for linking the library.
 
 # The name that we can dlopen(3).
-dlname=''
+dlname='libX11.6.dylib'
 
 # Names of this library.
-library_names=''
+library_names='libX11.6.dylib libX11.dylib'
 
 # The name of the static archive.
-old_library='libX11.a'
+old_library=''
 
 # Linker flags that cannot go in dependency_libs.
 inherited_linker_flags=' '

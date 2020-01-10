@@ -5,19 +5,19 @@
 # It is necessary for linking the library.
 
 # The name that we can dlopen(3).
-dlname=''
+dlname='libXpm.4.dylib'
 
 # Names of this library.
-library_names=''
+library_names='libXpm.4.dylib libXpm.dylib'
 
 # The name of the static archive.
-old_library='libXpm.a'
+old_library=''
 
 # Linker flags that cannot go in dependency_libs.
 inherited_linker_flags=' '
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/usr/local/lib /usr/local/lib/libX11.la /usr/local/lib/libxcb.la /usr/local/lib/libXau.la /usr/local/lib/libXdmcp.la /usr/local/lib/libintl.la -lc'
+dependency_libs=' -L/usr/local/lib /usr/local/lib/libxcb.la /usr/local/lib/libXau.la /usr/local/lib/libXdmcp.la /usr/local/lib/libintl.la -lc'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''

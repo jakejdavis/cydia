@@ -5,19 +5,19 @@
 # It is necessary for linking the library.
 
 # The name that we can dlopen(3).
-dlname=''
+dlname='libSM.6.dylib'
 
 # Names of this library.
-library_names=''
+library_names='libSM.6.dylib libSM.dylib'
 
 # The name of the static archive.
-old_library='libSM.a'
+old_library=''
 
 # Linker flags that cannot go in dependency_libs.
 inherited_linker_flags=' '
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/usr/local/lib /usr/local/lib/libICE.la -lpthread -luuid'
+dependency_libs=' -L/usr/local/lib /usr/local/lib/libICE.la -lpthread'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''

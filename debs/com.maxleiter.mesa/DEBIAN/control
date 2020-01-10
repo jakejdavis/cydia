@@ -1,0 +1,10 @@
+Package: com.maxleiter.mesa
+Name: mesa
+Version: 0.52.1
+Architecture: iphoneos-arm
+Description: mesa port to iOS. Installs to /usr/local
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Development

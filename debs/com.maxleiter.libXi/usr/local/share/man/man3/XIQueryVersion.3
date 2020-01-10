@@ -1,13 +1,13 @@
 '\" t
 .\"     Title: xiqueryversion
 .\"    Author: [FIXME: author] [see http://docbook.sf.net/el/author]
-.\" Generator: DocBook XSL Stylesheets v1.79.1 <http://docbook.sf.net/>
-.\"      Date: 06/19/2019
-.\"    Manual: \ \&
-.\"    Source: \ \&
+.\" Generator: DocBook XSL Stylesheets v1.77.1 <http://docbook.sf.net/>
+.\"      Date: 02/19/2013
+.\"    Manual: XINPUT FUNCTIONS
+.\"    Source: X Version 11
 .\"  Language: English
 .\"
-.TH "XIQUERYVERSION" "3" "06/19/2019" "\ \&" "\ \&"
+.TH "XIQUERYVERSION" "3" "02/19/2013" "X Version 11" "XINPUT FUNCTIONS"
 .\" -----------------------------------------------------------------
 .\" * Define some portability stuff
 .\" -----------------------------------------------------------------
@@ -92,38 +92,10 @@ server\*(Aqs supported version\&.
 .RS 4
 .\}
 .nf
-If the client has previously called XIQueryVersion, then the result
-depends on the previously requested version and the currently
-requested version\&.
-.fi
-.if n \{\
-.RE
-.\}
-.sp
-.if n \{\
-.RS 4
-.\}
-.nf
-If either the previous or current requested versions is less than
-2\&.2, or if the requested major version numbers do not match, then
-consecutive calls to XIQueryVersion by the same client always
-return the first returned major\&.minor version\&. If the client
-requests a version lower than the first returned major\&.minor
-version in a subsequent call, a BadValue error occurs\&.
-.fi
-.if n \{\
-.RE
-.\}
-.sp
-.if n \{\
-.RS 4
-.\}
-.nf
-If all of the requested versions are 2\&.2 or greater, then
-consecutive calls to XIQueryVersion by the same client with the
-same major version will return the requested version, but the server
-will operate according to the highest requested version number or
-the highest supported version, whichever is lower\&.
+Consecutive calls to XIQueryVersion by the same client always return the
+first returned major\&.minor version\&. If the client requests a version
+lower than the first returned major\&.minor version in a subsequent call, a
+BadValue error occurs\&.
 .fi
 .if n \{\
 .RE

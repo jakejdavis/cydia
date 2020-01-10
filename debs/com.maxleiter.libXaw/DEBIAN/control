@@ -1,0 +1,10 @@
+Package: com.maxleiter.libXaw
+Name: libXaw
+Version: 1.0.13
+Architecture: iphoneos-arm
+Description: libXaw port to iOS. Installs to /usr/local.
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: X11

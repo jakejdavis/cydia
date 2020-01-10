@@ -1,0 +1,10 @@
+Package: com.maxleiter.hicolor-icon-theme
+Name: hicolor-icon-theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon theme. Installs to /usr/local.
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Icon Themes

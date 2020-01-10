@@ -1,0 +1,10 @@
+Package: com.maxleiter.x11perf
+Name: x11perf
+Version: 1.6.1
+Architecture: iphoneos-arm
+Description: x11perf ported to iOS. Installs to /usr/local.
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: X11

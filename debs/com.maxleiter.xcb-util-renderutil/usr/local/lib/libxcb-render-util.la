@@ -5,13 +5,13 @@
 # It is necessary for linking the library.
 
 # The name that we can dlopen(3).
-dlname=''
+dlname='libxcb-render-util.0.dylib'
 
 # Names of this library.
-library_names=''
+library_names='libxcb-render-util.0.dylib libxcb-render-util.dylib'
 
 # The name of the static archive.
-old_library='libxcb-render-util.a'
+old_library=''
 
 # Linker flags that can not go in dependency_libs.
 inherited_linker_flags=' '
