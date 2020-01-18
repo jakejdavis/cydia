@@ -1,13 +1,8 @@
-body {
+.main {
   background-color: #272727;
   left: 0;
-}
-
-.fakeScreen {
-  background-color: #151515;
   box-sizing: border-box;
-  width: 100vw;
-  height: 100vh;
+
   margin: 0 auto;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
