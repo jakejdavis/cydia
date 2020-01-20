@@ -8,4 +8,4 @@ Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Author: Max L
 Section: Window Managers
-Depends: com.maxleiter.jpeg-turbo, com.maxleiter.libX11, com.maxleiter.libXft, com.maxleiter.libXinerama, com.maxleiter.libXpm, com.maxleiter.cairo
+Depends: com.maxleiter.libjpeg-turbo, com.maxleiter.libX11, com.maxleiter.libXft, com.maxleiter.libXinerama, com.maxleiter.libXpm, com.maxleiter.cairo
