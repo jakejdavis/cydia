@@ -1,0 +1,11 @@
+Package: com.maxleiter.font-legacy-adobe-100dpi
+Name: font-legacy-adobe-100dpi
+Version: 1.0
+Architecture: iphoneos-arm
+Description: legacy font. Installs to /usr/local/
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Legacy Fonts
+Depends: com.maxleiter.xcursor-themes

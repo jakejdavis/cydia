@@ -8,4 +8,4 @@ Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Author: Max L
 Section: X11
-Depends: com.maxleiter.xcursor-themes
+Depends: com.maxleiter.xcursor-themes, com.maxleiter.font-legacy-adobe-100dpi, com.maxleiter.font-legacy-adobe-75dpi, com.maxleiter.font-legacy-daewoo-misc, com.maxleiter.font-legacy-isas-misc, com.maxleiter.font-legacy-jis-misc, com.maxleiter.fontconfig

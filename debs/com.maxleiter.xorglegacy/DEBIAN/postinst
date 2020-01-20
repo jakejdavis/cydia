@@ -1,0 +1,19 @@
+#!/bin/bash
+install -v -d -m755 /usr/share/fonts                               &&
+ln -svfn /usr/local/share/fonts/X11/OTF /usr/share/fonts/X11-OTF &&
+ln -svfn /usr/local/share/fonts/X11/TTF /usr/share/fonts/X11-TTF
+/usr/local/bin/mkfontdir /usr/local/share/fonts/X11/100dpi
+/usr/local/bin/mkfontdir /usr/local/share/fonts/X11/75dpi
+/usr/local/bin/mkfontdir /usr/local/share/fonts/X11/misc
+/usr/local/bin/mkfontdir /usr/local/share/fonts/X11/OTF 
+/usr/local/bin/mkfontdir /usr/local/share/fonts/X11/TTF
+/usr/local/bin/mkfontscale /usr/local/share/fonts/X11/Type1
+/usr/local/bin/mkfontscale /usr/local/share/fonts/X11/misc
+/usr/local/bin/mkfontscale /usr/local/share/fonts/X11/100dpi
+/usr/local/bin/mkfontscale /usr/local/share/fonts/X11/75dpi
+/usr/local/bin/fc-cache /usr/local/share/fonts/X11/Type1
+/usr/local/bin/fc-cache /usr/local/share/fonts/X11/OTF
+/usr/local/bin/fc-cache /usr/local/share/fonts/X11/TTF
+/usr/local/bin/fc-cache /usr/local/share/fonts/X11/100dpi
+/usr/local/bin/fc-cache /usr/local/share/fonts/X11/75dpi
+/usr/local/bin/fc-cache /usr/local/share/fonts/X11/misc
