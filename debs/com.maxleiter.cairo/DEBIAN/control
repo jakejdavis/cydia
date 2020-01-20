@@ -1,0 +1,12 @@
+Package: com.maxleiter.cairo
+Name: cairo
+Version:  1.17.2+f93fc72c03e
+Architecture: iphoneos-arm
+Description: cairo port to iOS. Installs to /usr/local
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: X Libraries
+Depends: com.maxleiter.libpng, com.maxleiter.pixman, com.maxleiter.fontconfig, com.mc.glib
+

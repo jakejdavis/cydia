@@ -1,0 +1,11 @@
+Package: com.maxleiter.cairomm
+Name: cairomm
+Version: 1.12.2
+Architecture: iphoneos-arm
+Description: cairomm port to iOS. Installs to /usr/local
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: X Libraries
+Depends: com.maxleiter.cairo, com.maxleiter.libsigc++

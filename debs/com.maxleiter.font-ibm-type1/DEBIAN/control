@@ -2,9 +2,10 @@ Package: com.maxleiter.font-ibm-type1
 Name: font-ibm-type1
 Version: 1.0
 Architecture: iphoneos-arm
-Description: font. Installs to /usr/local/bin.
+Description: font. Installs to /usr/local/
 Homepage: https://github.com/maxleiter/cydia
 Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Author: Max L
 Section: Fonts
+Depends: com.maxleiter.xcursor-themes

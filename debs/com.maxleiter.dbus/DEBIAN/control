@@ -1,0 +1,11 @@
+Package: com.maxleiter.dbus
+Name: dbus
+Version: 1.12.16
+Architecture: iphoneos-arm
+Description: dbus port to iOS. Installs to /usr/local. 
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: X11
+Depends: com.maxleiter.xorglibraries

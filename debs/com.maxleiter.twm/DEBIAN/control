@@ -1,0 +1,11 @@
+Package: com.maxleiter.twm
+Name: twm
+Version: 1.0.10
+Architecture: iphoneos-arm
+Description: twm port to iOS. Installs to /usr/local. Note: no Xvnc here. 
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Window Managers
+Depends: com.maxleiter.xvnc

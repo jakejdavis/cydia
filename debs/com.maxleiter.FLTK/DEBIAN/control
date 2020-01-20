@@ -1,0 +1,11 @@
+Package: com.maxleiter.FLTK
+Name: FLTK
+Version: 1.3.5
+Architecture: iphoneos-arm
+Description: FLTK toolkit. Installs to /usr/local/bin.
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Development
+Depends: com.maxleiter.xorglibraries, com.maxleiter.hicolor-icon-theme, com.maxleiter.libjpeg-turbo, com.maxleiter.libpng

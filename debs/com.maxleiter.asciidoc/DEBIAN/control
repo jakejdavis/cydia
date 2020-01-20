@@ -1,0 +1,10 @@
+Package: com.maxleiter.asciidoc
+Name: asciidoc
+Version: 8.6.9
+Architecture: iphoneos-arm
+Description: asciidoc. Installs to /usr/local/bin.
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Development

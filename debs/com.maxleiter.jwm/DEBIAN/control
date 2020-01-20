@@ -1,0 +1,11 @@
+Package: com.maxleiter.jwm
+Name: jwm
+Version: 2.3.7
+Architecture: iphoneos-arm
+Description: JWM port to iOS. Installs to /usr/local.
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Window Managers
+Depends: com.maxleiter.jpeg-turbo, com.maxleiter.libX11, com.maxleiter.libXft, com.maxleiter.libXinerama, com.maxleiter.libXpm, com.maxleiter.cairo
