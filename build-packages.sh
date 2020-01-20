@@ -3,7 +3,7 @@ find . -name ".DS_Store" -delete
 cd debs
 for f in *; do
     if [ -d "$f" ]; then
-    	echo $f
+       echo $f
        dpkg-deb -b $f > Packages
     fi
 done
