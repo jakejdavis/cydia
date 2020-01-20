@@ -1,5 +1,9 @@
 #!/bin/bash
 mkdir -pv /etc/sysconfig
+ln -svf /usr/local/share/X11 /usr/share/X11
+ln -sv /usr/local/lib/X11 /usr/lib/X11 &&
+ln -sv /usr/local/include/X11 /usr/include/X11
+
 mkdir -pv /etc/X11/xorg.conf.d &&
 cat >> /etc/sysconfig/createfiles << "EOF"
 /tmp/.ICE-unix dir 1777 root root
