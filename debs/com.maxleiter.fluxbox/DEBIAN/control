@@ -8,4 +8,4 @@ Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Author: Max L
 Section: Window Managers
-Depends: com.maxleiter.xorglibraries
+Depends: com.maxleiter.xorglibraries, com.maxleiter.fribidi
