@@ -5,9 +5,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xorglibraries, com.maxleiter.hicolor-icon-theme, com.maxleiter.libjpeg-turbo, com.maxleiter.libpng
 Filename: ./debs/com.maxleiter.FLTK.deb
 Size: 1291936
-MD5sum: 7306c0238ee5f1c91b52264b8937c1fd
-SHA1: 8c342725f3fcbc697dc158bcd04cdac93b2dc04b
-SHA256: 0a51b78603fd3a20c2f051240be74e86a8600bd2f20df5aa5f90d21907e14d86
+MD5sum: 54d0cbbf1b841fd25bf03a737c0bce60
+SHA1: c29601c679ec655b59033e103ca811715d1b623f
+SHA256: 66c6019cf0f8f55f3edc459ae9c1810d81b03727cf117bb95a18fa8d29664909
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: FLTK toolkit. Installs to /usr/local/bin.
@@ -22,9 +22,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.libjpeg-turbo, com.maxleiter.pixman, com.maxleiter.xorgapplications, gnutls, gcrypt
 Filename: ./debs/com.maxleiter.Xvnc.deb
 Size: 2863288
-MD5sum: 0f07ebdc91611a2d112c3ea56f761acf
-SHA1: 02c0e74dfc07862b0de50d854c1a4470be8e9efe
-SHA256: a30d458ebef518d47b58c93fabc1966ca1b8f12ed7c9176499a1a89f99d75cc9
+MD5sum: 92bfe424dc36f1e48b7b94072a4b3a62
+SHA1: 58b6293be6588c4b35bb14377ea0f1768efb41f1
+SHA256: ecd82d185e7d45cf8d3b4fdb90d555943a6de92cb21040eb963beea586c4834f
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: Xvnc port to iOS. Installs to /usr/local
@@ -38,9 +38,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.asciidoc.deb
 Size: 163232
-MD5sum: f93d94a987d9f5c1442e43f5233d4e6b
-SHA1: 020661f9dd25d2351d5cfec30050e889ddd614c4
-SHA256: c645208eff041d35e87384eabc3aada458262685088fe5388324a2bcd4b8e208
+MD5sum: ebb5521c185b3d50b19452b64844c107
+SHA1: bb32e6a58f974089995efb349487b6240da6cb93
+SHA256: 336923da5670b378a04860fee64bfa514502335abb32cac815fd5ba004947521
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: asciidoc. Installs to /usr/local/bin.
@@ -54,9 +54,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.autoconf.deb
 Size: 551196
-MD5sum: cd592f2d04e37915673160982969f6a4
-SHA1: 339011239779af9da1e4bca055719910a6b0d06a
-SHA256: 6d75511bba69a3dec70f6c4b6f36a493578f9ef924a060fd9094ba1739716f54
+MD5sum: 5c378ced0bcbfe68808fe67cc8e78167
+SHA1: 68373ac0289b293b68ad05591ad66f95e3c67034
+SHA256: b4678334458a144181cb5a723e3b4c456613a935a87baacbb8acecf9ace46923
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: autoconf. Installs to /usr/local/bin.
@@ -70,9 +70,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.automake.deb
 Size: 536424
-MD5sum: 66359089f2db9582446dc499c97ccebc
-SHA1: 4fb1715413f6b13ca7ffb7ae34edbc01a8939d46
-SHA256: 5d04a35df8792cf4eff8842f6108be5688855f701e2cb531bcfce1742df9d895
+MD5sum: f79f7d3edc90f8a1f50d991f4a7084d4
+SHA1: 07249a151be27f4131ca1299217c7d82fdaa2fab
+SHA256: 7eaed5611e8d9e253ab0ce7daf44ff001401405646ee43abfac8cee03ee80057
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: automake port to iOS. Installs to /usr/local
@@ -87,9 +87,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.libpng, com.maxleiter.pixman, com.maxleiter.fontconfig, com.mc.glib
 Filename: ./debs/com.maxleiter.cairo.deb
 Size: 544228
-MD5sum: 8288f09503442183f0b2fa78d94123bc
-SHA1: 42b29d940adb1d09ef132f8b063bcf6c75009a72
-SHA256: 71fd86780b963569f35f79ea76c312c653d85c671fb7d895917f340ec6ad6b93
+MD5sum: 6db0f492b778a36351df6527409cf6fc
+SHA1: 193b80175d160549dc2b8a90ca7bfd979a3358f9
+SHA256: ec89be847366f55353b3a373971df4e6b5074e21731c7942b7e672afe8e6056f
 Section: X Libraries
 Homepage: https://github.com/maxleiter/cydia
 Description: cairo port to iOS. Installs to /usr/local
@@ -104,9 +104,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.cairo, com.maxleiter.libsigc++
 Filename: ./debs/com.maxleiter.cairomm.deb
 Size: 542716
-MD5sum: 5ec3d208a08cb18e2b422a6b8957871c
-SHA1: 1f5b3a55907954deb853992a3fa1212826feb321
-SHA256: c769665c3da72374471d777f60a2647741a9602fd8cc47ffec62dd6c37dfe00f
+MD5sum: 21d531c69f58b2837fe816c10103fef7
+SHA1: ed5fb58e45720190fe7f1e22f3879576ff193db0
+SHA256: de2e629ad0aace3644283e48492afe93a3ef5051b3157485ae0f86f462d00889
 Section: X Libraries
 Homepage: https://github.com/maxleiter/cydia
 Description: cairomm port to iOS. Installs to /usr/local
@@ -120,9 +120,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.check.deb
 Size: 89380
-MD5sum: 205030ca0779f06561b6684f240a6886
-SHA1: 431dd6d3bcd1ea205bd343e5a80089f0ceaf6180
-SHA256: 357d73ee9907d84e65036e787e5c57c11f91c2f3c6f3df759ce1ee54a7c86822
+MD5sum: 56cf944f47d8279df742df9fe4399f53
+SHA1: 4d45db6428c09007dd6b0baede036eb8ee33faf9
+SHA256: 4baa82abe3767cfa5b4d462fa7d2e62952e73179da48f8a6b0097822fd266dfd
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: check port to iOS. Installs to /usr/local.
@@ -137,9 +137,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xorglibraries
 Filename: ./debs/com.maxleiter.dbus.deb
 Size: 310972
-MD5sum: 1bd7d0b4891724eca287cf9532283cac
-SHA1: 8b19b9908d2b45d00459e8de6d8bc0b45c9ba6cb
-SHA256: 353e4d3c9cfcd4aee0954aead008e06045f21a8bb580843be4e32d1078af373a
+MD5sum: b98b35f57058da748970d76a49c66de6
+SHA1: 13429e0895aebefdc63790bb4a9bbd75ded72d8e
+SHA256: 4c2ef887fa6b2c7cc01078804d347a630802ff226b310486dd1470494cdd0855
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: dbus port to iOS. Installs to /usr/local.
@@ -154,9 +154,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.mc.glib
 Filename: ./debs/com.maxleiter.desktop-file-utils.deb
 Size: 37736
-MD5sum: 86dad2db7e70734ff559982244c4df9e
-SHA1: af54b2f8d08b8c86e934c3859b670872f653abcb
-SHA256: 6196c4c032b2bda06602dc7183a6b7ff3fbaee3207e590173edfda5351528c06
+MD5sum: 1b6fb10ade1960ae4162b2c73d0dc08a
+SHA1: 00fcb6dc0d03249e3e9248f37d664c6dfbd488b3
+SHA256: 8aac12bd2c428bde165910e28d4bff544d3c21eb89eac547d07f9ef6c80694bf
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: Installs to /usr/local
@@ -170,10 +170,10 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcursor-themes
 Filename: ./debs/com.maxleiter.encodings.deb
-Size: 569456
-MD5sum: 444f5c6b5e901e44b47e36ea3faf1102
-SHA1: c0b064c6c0039707a6e45ef6abe951bfe79780be
-SHA256: 72523cbcacfc3486831bdd2ab2a917274e28afda05652e17c8cbe5189fafd144
+Size: 569452
+MD5sum: 3e3085d6dd8cadabe9bcc651ab02bc7f
+SHA1: 39a4e1a50c619682213f0faf9f71acefe76ef95f
+SHA256: a365106aceba56f96be224710002673da8df891ade26c1e76522771afdeebca6
 Section: Fonts
 Homepage: https://github.com/maxleiter/cydia
 Description: font. Installs to /usr/local
@@ -188,9 +188,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcursor-themes
 Filename: ./debs/com.maxleiter.font-adobe-utopia-type1.deb
 Size: 171192
-MD5sum: 11c563d7c4ca76f17e93f48886ac1a94
-SHA1: 8ba04b6cb6a60532a7d9a4b809a155713cf72999
-SHA256: b748bb1c0016a2250315dc260fa5eec8b9f2314bb4361afb510acca3e43726d9
+MD5sum: d23b47846b8d84dd1f264d6d9006ca12
+SHA1: 7c36ee6c62165e5a66d0bf5ade6d7caf044869ff
+SHA256: a2e37815eec3de40b5859bae8097afd1fcc29e6b6d7ee1811a7c55b2b90115a7
 Section: Fonts
 Homepage: https://github.com/maxleiter/cydia
 Description: font. Installs to /usr/local
@@ -205,9 +205,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcursor-themes
 Filename: ./debs/com.maxleiter.font-alias.deb
 Size: 2908
-MD5sum: 0865ccbb97ce882ecb32a96c4f953beb
-SHA1: dd63f92ad9719890bad5ec9a77470bd65fb88e0d
-SHA256: b045c915a45aec095a0ca6a24067ba16465d2a38908296188c2201697882480e
+MD5sum: 75024ffd37a167cf95d821de8700c811
+SHA1: 8bd73764648ef86f93b826318264096c5953eb06
+SHA256: 5a09d26ab5dc6632d78a4c7656ff30705c8369fb737e1f7390cc8601c4898189
 Section: Fonts
 Homepage: https://github.com/maxleiter/cydia
 Description: font-alias. Installs to /usr/local/
@@ -222,9 +222,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcursor-themes
 Filename: ./debs/com.maxleiter.font-bh-ttf.deb
 Size: 275084
-MD5sum: 0ddb35d1421b41900506cf6fbdac0144
-SHA1: 1a2d9742a8518f104bb8ec8a4aa6d1267ea5fabb
-SHA256: 19826370b85fed6672e60cf04b22ad335752c29bf0d29b7c7f6753d638cd6260
+MD5sum: fddee03e634e3b06e467789a2c739be3
+SHA1: b70342348e641a90f7aca68a55b5c697a2e11f47
+SHA256: 961cf367dbf503d357b187049045efb38793dcf6f72121a67887ebc793b09216
 Section: Fonts
 Homepage: https://github.com/maxleiter/cydia
 Description: font. Installs to /usr/local/
@@ -239,9 +239,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcursor-themes
 Filename: ./debs/com.maxleiter.font-bh-type1.deb
 Size: 535340
-MD5sum: b00f93105ec7a2c2e4703a657d3380af
-SHA1: 7567f1c3bd751330e51a5b97e2dd8bdb591f9769
-SHA256: cfab0405b183ff22f7ae0d9ab26bf1396fe697284fdf1c65674b89535821413f
+MD5sum: b56f1300df4b6a151ee8e9e3936fb5ed
+SHA1: 55b35dff16fed5b75b4f0ea8e1383847e6512916
+SHA256: 408067c7567cb8dde08da133e3a64765c77294a642ab743b158743221e2a6bbe
 Section: Fonts
 Homepage: https://github.com/maxleiter/cydia
 Description: font. Installs to /usr/local/
@@ -256,9 +256,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcursor-themes
 Filename: ./debs/com.maxleiter.font-ibm-type1.deb
 Size: 280204
-MD5sum: aa22ee4aad8c60caca6a5ac58f93da4e
-SHA1: c87e7c48f6f841abb69bda11e40462b3cba86d87
-SHA256: b6b10fce3a0e3490e83b5629c514d0e8c7e7ff6444c47addfb50ccbb33df1744
+MD5sum: e7b1eb1822d1ec924425408b481d262d
+SHA1: f5d18b982603d9cd63882e304bf8d459007ffe80
+SHA256: d0c4575ed94252eaa5679874100587318a05fe54314025adcec0474a6c0cbfcd
 Section: Fonts
 Homepage: https://github.com/maxleiter/cydia
 Description: font. Installs to /usr/local/
@@ -273,9 +273,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcursor-themes
 Filename: ./debs/com.maxleiter.font-misc-ethiopic.deb
 Size: 129412
-MD5sum: 3cb1626efa20886384bab11ef5e0f15d
-SHA1: c7a4f362bd6a01f2f4c1c81b8e90926b03c114d9
-SHA256: 8f15fa9521ffd84b097a731666985450dbfd36113f70100e35223f2978126b40
+MD5sum: ff284a483a02a041f906e9bec01c06a5
+SHA1: 16f88534cf25d4a2f83f419303627c187d609f19
+SHA256: d495a20a9c1159199fe2ee973ce5990f5df4b488b725c6e90aa40a2e634337f2
 Section: Fonts
 Homepage: https://github.com/maxleiter/cydia
 Description: font. Installs to /usr/local/
@@ -290,9 +290,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcursor-themes
 Filename: ./debs/com.maxleiter.font-util.deb
 Size: 26320
-MD5sum: c0700fa84fdd3fc1bd6fb40870ce49f4
-SHA1: df29ce881bd261e74e62d87acba032e83b993f61
-SHA256: 73d2dee973927560a7cdc2c94878d6cb1d68dfb0147783477e2a25916b0c0085
+MD5sum: 8e35bc97a4d52d83344acc2606227d40
+SHA1: 497a2e6662d8610518d4f8dd73a6e825006ee4df
+SHA256: 02f2dbacb52583a045d93f35a57b2a732670fa7267b962d43ac1b09d0026af93
 Section: Fonts
 Homepage: https://github.com/maxleiter/cydia
 Description: font-util. Installs to /usr/local/
@@ -306,9 +306,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.font-xfree86-type1.deb
 Size: 28476
-MD5sum: 5b1abb808ac3b01e9789246449a29b58
-SHA1: a1abce1c5aef4b78ac6e513e1f10703337bc71db
-SHA256: 070d7ba638f00f6e673febbd164c57912fa78df22b2d350aa229c7ea737fbb5b
+MD5sum: e67fc780408cab66d929fb704c2f65f8
+SHA1: b1dd6567320200fd60a2004e8291d181228cfdf2
+SHA256: a1721ff7197f8ffc9d538e372db2ae751e23dceeea35c84055400ae368dff3c0
 Section: Fonts
 Homepage: https://github.com/maxleiter/cydia
 Description: font. Installs to /usr/local/bin.
@@ -323,9 +323,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.freetype2
 Filename: ./debs/com.maxleiter.fontconfig.deb
 Size: 144140
-MD5sum: 45eeb8bb7141b24dee257641075ab1ca
-SHA1: 7b417568cff8cce63af4646599707de1a1a20588
-SHA256: 053925a003bbc94ec6157eea1e63813d0dd62574fd18f64735c9c6a9d3682b1a
+MD5sum: 1c1fa95f3fa85d81239366383ffd0318
+SHA1: 8c795df5fa7f37a6e486c15be7530dd0fd8bc9d5
+SHA256: 6a67b6f2aa3679592c769f4ad43346099cf788124f6f72c57a57d737b392e9d4
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: fontconfig ported to iOS. Installs to /usr/local/bin.
@@ -339,10 +339,10 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.harfbuzz, com.maxleiter.libpng
 Filename: ./debs/com.maxleiter.freetype2.deb
-Size: 1353164
-MD5sum: 457fb34dffad055bd2c7dcee4cbd54ef
-SHA1: c3e72268d40821550ef57c5a11f9e85080ee44ea
-SHA256: 55cec5f3ed2c10395d3ed960a21fdef4c02ef2f89c1091234d9b16e53f987da4
+Size: 1353168
+MD5sum: 7768a00425b05e3be70775ee5299f376
+SHA1: ca353d19efa3aa1c952952499c9d1a5a95c4e312
+SHA256: a23e509f866adc600fdd54b515b430e6c61805295b481828bc791f86611f2980
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: Freetype2 port to iOS. Installs to /usr/local/bin.
@@ -356,9 +356,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.fribidi.deb
 Size: 92944
-MD5sum: a8a5faaedb8ff0af4d6054c6b823b370
-SHA1: 4d2c2e351073d7fdfa4cd5f933b68c729d0f7835
-SHA256: f248c0b0187c99f9a750cea7eb60f6fcc37ab61f5c4930bfa8d6a2678a20ce3c
+MD5sum: 2fe0a48bbff6c9c0d34b469540570808
+SHA1: 82bfc3a7aa8dec0d2906cc4b5489b24f814fc81d
+SHA256: 7e56d3c7879e6ba5d10f23288a485156b842b3163395c8ed2bc28b9be861a801
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: Fribidi port to iOS. Installs to /usr/local/bin.
@@ -372,9 +372,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.gperf.deb
 Size: 78212
-MD5sum: 82b9fc510b838265e1b31ccff4e97bf8
-SHA1: 087d9b831f2b10cf7a43bdd5be7df00744b4b34a
-SHA256: f07a828b241b3f43a3fa86d380f2a24d097d32e34748126f342347f6a61ac677
+MD5sum: 37ff58dee4a9835ec6aa4e6d70c4bac9
+SHA1: c180aa12527794dd3c7792a3c7b7ae927e9ab001
+SHA256: b1dd5034ed21216eb7c5a73acd8adfbc6e8da42f84a323116b680a41284a5e7f
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: Gperf port to iOS. Installs to /usr/local/bin.
@@ -388,10 +388,10 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.mc.glib, com.maxleiter.freetype2
 Filename: ./debs/com.maxleiter.harfbuzz.deb
-Size: 536624
-MD5sum: 55b30618f35194901995a6cd38338fa3
-SHA1: 72423779d064309a861e7117e17db36a636808bb
-SHA256: 237fa8cbc51cca5a9bbc4f14853c9b6a5ff950bef28ee1d1924df28a919867b5
+Size: 536628
+MD5sum: 13578fdfadcbde26a4353ba0f3dcfe7e
+SHA1: 920b143be63c63130007e42cd4335e8c4cb0487e
+SHA256: db798baf05c7d6a54015610d1c50b7c4b932ff27d91c3076bc6eefe3ee70767b
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: harfbuzz port to iOS. Installs to /usr/local.
@@ -405,9 +405,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.hicolor-icon-theme.deb
 Size: 6908
-MD5sum: 5268d9c583b9c6a78a702af3c904eb3b
-SHA1: cbd9b5fb75d0d0a81a864c23b6e926f38d9bc7b2
-SHA256: 58ff72ab7c73b8989a148046efb5882270ee7c22317f6dffd7618bdcfad58d13
+MD5sum: a14450e24c426767f7f67a237a6bb9c8
+SHA1: ded301c36718428e5bab3611b6daf6f09349b3d7
+SHA256: a5cf59f29e3de28e4125d24276f70277cba17f369c8812ae6979b4a54a21fe45
 Section: Icon Themes
 Homepage: https://github.com/maxleiter/cydia
 Description: Icon theme. Installs to /usr/local.
@@ -419,12 +419,12 @@ Package: com.maxleiter.iceauth
 Version: 1.0.8
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.iceauth.deb
-Size: 12868
-MD5sum: 5187c6069fd8b198a9bd0e103e7009b5
-SHA1: c4de5c321a57ba508ffff0db3b5c24ef7a9ee65b
-SHA256: 7355ad193ce0c4ee36a53e81f3f540c3d30e610e4676c9174a04c1daa0a44c0a
+Size: 12864
+MD5sum: 4c031a8a01d18625fc411175ade14529
+SHA1: 8fc9f96565c9b0fff8aa42797bb4471911b12265
+SHA256: 815b8d552814be46610f1566241453c0a3b21adab058824b9d77de9b5d25b093
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: iceauth port to iOS. Installs to /usr/local.
@@ -439,9 +439,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xorglibraries, com.maxleiter.libpng
 Filename: ./debs/com.maxleiter.imlib2.deb
 Size: 485404
-MD5sum: 7efc80bacd70cfe43af546ca32c08283
-SHA1: ad20df1be15684d04c43f1e8b3a9fb0a7de520a2
-SHA256: 8b4987778042157df610ada3e445b8bd870d983f90894f9b6e88d873a0d4ff7b
+MD5sum: 94e173b6c8ddd909e6c85aaf97a5d56c
+SHA1: 7abe6248b77cb9b22a74668d334b637f8d8ca876
+SHA256: 4847a7263f709b71bea7d9b82167e4bcac2aa6b1c6bfbd96f1b524af97daf048
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: imlib2 port to iOS. Installs to /usr/local.
@@ -456,9 +456,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.jpeg-turbo, com.maxleiter.libX11, com.maxleiter.libXft, com.maxleiter.libXinerama, com.maxleiter.libXpm, com.maxleiter.cairo
 Filename: ./debs/com.maxleiter.jwm.deb
 Size: 123040
-MD5sum: bb0817583ed562741d796d1c2de944ed
-SHA1: 325287f01b81b34b0be808baf3e34b187ab29b6a
-SHA256: 3a297c4943d73f62d39ef8ce063f302a6b4d4a3cf525a10484f0cb529f30b246
+MD5sum: d5c06de90eb877a1c8411c4b3333503b
+SHA1: 3d941b2bf14f1c545463e62e5592f1e7024b070d
+SHA256: 06bf10f1b1176933cbeb12f36699355f3d80487c05e65ee592f1ed71530b0b53
 Section: Window Managers
 Homepage: https://github.com/maxleiter/cydia
 Description: JWM port to iOS. Installs to /usr/local.
@@ -473,9 +473,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libFS.deb
 Size: 75120
-MD5sum: 7b8b34c4de5b562ad3c11028993cf99b
-SHA1: 7a046aaffc5ef3da1168abe449114014aebc032c
-SHA256: 9d1f9fe0ac05d78dddd25a9d96230388e2c63648503f8eeda1d2950ae6ffb033
+MD5sum: 70cf9664d6090ec3a3233e06f85854bd
+SHA1: 0b91cd6effd8a428e295ed2b8a42b7a2c33eeae0
+SHA256: 5410724287759074cd87b13d3f165c7bca6cd097a2d8feb434614ec179c5d2fb
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libFS port to iOS. Installs to /usr/local.
@@ -490,9 +490,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libICE.deb
 Size: 154896
-MD5sum: 076223bb4fb817c5ac3cd2376c99d3ee
-SHA1: aab3c0b56d78bd699e64460b4f5ec8dceaf2deb7
-SHA256: 33c552948f63678c3865207206367d45907716a9aba6fb139d5f0fe755397cd5
+MD5sum: 077c6ec7c5becc9222c80d80382b2728
+SHA1: ed580ddbd675a9d4d0b1ee943dd345d9fc23f91f
+SHA256: e1fceb6f249606cfc3ba387fe9c78705b3a498522088962c20e869f1c74c8cb1
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libICE port to iOS. Installs to /usr/local
@@ -507,9 +507,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libSM.deb
 Size: 75856
-MD5sum: 9cb58f889ab7c945124c266d35d051cb
-SHA1: ffa64fd68bba216323086a6a8dabd82bfdd96aba
-SHA256: 315f8afe6dcd57949fc057b8be35f1490a4fa254e5f71740665ba9ee4ef300a0
+MD5sum: 9faa7bc95d14c0286e8b737c194407e0
+SHA1: 8bd5f87500244987700b0ddd5c3d7064f9847cd8
+SHA256: 1d08554828d5f0cd5ca310df422a3c2253de67fc5031b30893be0d1b43082af6
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libSM port to iOS. Installs to /usr/local
@@ -524,9 +524,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libX11.deb
 Size: 1236516
-MD5sum: 7570ad80a8509ef189878b2bdb5d50fb
-SHA1: ba5938b6c2730581be573c4626d96c5e8a6780a7
-SHA256: 2d8039a1254691d8566a29333c8dcb38dabe876524c97118a282330c18dbabe6
+MD5sum: 6546b4c3fdf96d13c202a0c438f2888b
+SHA1: 23c55227380b2cf4ddbfbc90588c8286b057b8ac
+SHA256: e4b38f756477e2cef896f5e040bf25c30cc676f7c25a91ab27f8eac5d53a0dc3
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libX11 port to iOS. Installs to /usr/local
@@ -541,9 +541,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXScrnSaver.deb
 Size: 459720
-MD5sum: ad3b160bde9f9583a0f79d6a30a41eb3
-SHA1: 10362ba03259cc57c762b464ef03a28d8c461a4b
-SHA256: d1811272f9b454efd2ce63be870940f28161c20936ed658b796e625d19fa671d
+MD5sum: 57f1fe24f2a349878d98ebf53040669b
+SHA1: bebe9361f570b1aeaaa15d436c650e35ffd23be8
+SHA256: 078148c2746a6674a3165b0c7ee9446a1315be9b1c0c0f058f5e7b346b576496
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXScrnSaver port to iOS. Installs to /usr/local
@@ -558,9 +558,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXau.deb
 Size: 17684
-MD5sum: 64cbc31684a0cc4282500994391ba495
-SHA1: eb34622758518e7bfaca60f58c1dc305587a2cef
-SHA256: f8b18e8355eb1de0d0781271ea36400ac4532c38fa8282616887b368880e2ecf
+MD5sum: b732653dcf21ea5aed568fecfe5b5b7b
+SHA1: 3def11fed490be95958fe5a2821a92e6af5420a7
+SHA256: d2008dc28606cb7254efbabe12716cb4d704da80398a2feacc9891e74f8889a0
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXau port to iOS. Installs to /usr/local
@@ -575,9 +575,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXaw.deb
 Size: 308816
-MD5sum: e2a8b806b80110683edd50dc8999881c
-SHA1: f1954d333e85f861a4bdffd2b8210b08724e8f7e
-SHA256: 40d04660bba391cab51aa228e0270033b982504ace2c7945fc1610cb18d0e9a3
+MD5sum: 1e97a85aae649d3931034a5096289e03
+SHA1: cbcd7c9e14ebca50f3e9d8ed1f525c7d2daf08fd
+SHA256: 6ca1cdf025f4cdcfa01844a3da300edf69bc05598a034ce9b0b5e34b7076b544
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXaw port to iOS. Installs to /usr/local.
@@ -592,9 +592,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXcomposite.deb
 Size: 456276
-MD5sum: 0031be044e102e8296554228f18e7a6a
-SHA1: 74197920e660c1b53dcdbd131070ae63208a7acf
-SHA256: fc19751efde410b8a71ef7345aa62475559cec0ca9e663fe7363faedaeddd959
+MD5sum: 29adf7dee6abeef319491f3a3384a79f
+SHA1: 6636db6b8c0f3786a8cd33cdd90b22e14f6e8b72
+SHA256: c15d22e8477ce7a1da78e199e1fd37a1d90b9fae17ea52bf7db4d8f5eab5d2a3
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXcomposite port to iOS. Installs to /usr/local
@@ -609,9 +609,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXcursor.deb
 Size: 533596
-MD5sum: a41edbeee8ba91807df944d360e4e58a
-SHA1: 1014e0578515255887b55ddfa5e44a4091b37bb7
-SHA256: 22a0e473287f59ed8f937053b90e44c87f7f6c314683e5760e081252b60fd261
+MD5sum: cf94536293d989f27c8da9cf74665b76
+SHA1: 195f0035dbd57cb023a05d1427f9ad72b480809f
+SHA256: 77be94fd389bfbe64145a9aed1f41fb989c558a8d0124e813f50bf2dbc73e5f9
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXcursor port to iOS. Installs to /usr/local
@@ -626,9 +626,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXdamage.deb
 Size: 452856
-MD5sum: e145c1fe2ea962a6c3ab7069848728c4
-SHA1: 6c757c3b6ba8383fd9f5c3da1ca740885939e7d4
-SHA256: 32baa345deff71e6234322f8ec191bf74440871b04a2dc166a4f773f3fb62262
+MD5sum: bde03e2087577b446dd944f12ce0f107
+SHA1: 7dba4f7500f167ec4c0a2fe095bf7200e5569e26
+SHA256: bc80ec3501a62e809e902601f789a9fd87ccac1ec9233fc9a0a54f295d3ac4f6
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXdamage port to iOS. Installs to /usr/local
@@ -643,9 +643,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXdmcp.deb
 Size: 39292
-MD5sum: 975b382fe36916e3056774e7dc02cf1c
-SHA1: e576b5c2e654fc5b334c50e070e1c3807dbc508f
-SHA256: 143c1fb3d9af01ae5de23d25367ac83f2e626060f467a50533b53384e87d6a73
+MD5sum: 4cec564725fcb63f799adbef650d2362
+SHA1: b8d6b31a09ba3762b7d58c97350e7f063eeb0ab9
+SHA256: ba1692efeb62b5bb60a750639211172d55f4b2f1bf79ecfee20dfac088c7c88d
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXdmcp port to iOS. Installs to /usr/local
@@ -660,9 +660,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXext.deb
 Size: 614196
-MD5sum: da74fe66238fd01a89477af3f310b1a7
-SHA1: 72cf34dee575466286d62a57d17c9a5a40dab0f0
-SHA256: 054087063a76e491a563f31fac0ee3359576c1654607b32c3ce7f9e2c6902f35
+MD5sum: 540b768de29704a25db007b9ba8cebdf
+SHA1: 8756e2570fa56e42fe492cba23f527f430ccd0ee
+SHA256: 4d00fd908522cdb232f79a08a8040849f9d1ebc13573d5afc0b07580f7d70e2d
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXext port to iOS. Installs to /usr/local
@@ -677,9 +677,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXfixes.deb
 Size: 10896
-MD5sum: c58d2f992b548dd4fa639b6ef8a24cdb
-SHA1: 0434543b91ded5469d5b20018005b1325397c0e8
-SHA256: 9c6142ab0812e56b24b2f0c1593d3b5d20dc8693f803660377114126d8cc530e
+MD5sum: f7ee13d0e9e88eb619e2721392d14f5a
+SHA1: c3ed6c3dfd8637d49737fadc3dc710df3cfd86ad
+SHA256: 8935ea6c83cd67209bb581fe2331868c56075c31e9a7d4545d0ec84e515bf0cb
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXfixes port to iOS. Installs to /usr/local
@@ -694,9 +694,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXfont2.deb
 Size: 616584
-MD5sum: 18ce0699fb0cb65f7e63a51b6e8faaf7
-SHA1: f7b4acd9a46554f00632bcc11ffc1c509a13212c
-SHA256: fa4a6fe7ae2aace50e57a202d1c21c1451a900a809191511b0799542890a9905
+MD5sum: c9a263e25f256309c5a7ccd2084f228a
+SHA1: 6edeb13d0bfadd9275564ad48c7ee3109f5d581b
+SHA256: 1aaa3ccb65fd24ac20db60edf42b0db0bd9c7f24a3c3d7074b1c68f701e9d4c0
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXfont2 port to iOS. Installs to /usr/local
@@ -711,9 +711,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXft.deb
 Size: 47144
-MD5sum: 8b49ed8156d93cae1e113bd6f8fb8039
-SHA1: 96539ac7b1e38446fc279ad21ad5d7e8dd0585c6
-SHA256: 85bdeb286dc13e52c6f8337059440265162a6165626c9a0501c3f3ad59b31203
+MD5sum: 08112db59abd85e7787ce65d326d7cf5
+SHA1: 3020dd1fc8665a384e1f2ec3f74e2871dc3dccba
+SHA256: 25ab05da00f6dd182f47c4057a15fe56782a9f8eb855a89af1ead7c05de10d86
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXft port to iOS. Installs to /usr/local
@@ -728,9 +728,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXi.deb
 Size: 837092
-MD5sum: 76d235a486837052dedf9abe9dcc4808
-SHA1: 84d955514014a88d9cb16f7aaf3fd36a287ff848
-SHA256: 3b425e910bf50dea872f83dd6659c178ebdf80f136ad3523c096a8c0f3ff9b64
+MD5sum: e84e42c62a494031e65b0d8cb978a333
+SHA1: ae46f1a36bafcf1eceea7b7456a582dc92bf67ef
+SHA256: 5d82354eb99b565628b97598150f3b0e9221146e696e2b726bd627fa16a00cc2
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXi port to iOS. Installs to /usr/local
@@ -745,9 +745,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXinerama.deb
 Size: 455100
-MD5sum: b5f32f705caacef940076576b6bdeeec
-SHA1: fac88c50ff0e823fc199293a0421acd388373090
-SHA256: 8980e965fc658d283465ea12f0aee6f4a9006321653795f39962426e782a37b3
+MD5sum: a463741f4e03119d60471676ea170691
+SHA1: da04a390afd0619e6847bfae95288cb2adaf2d61
+SHA256: 34e2da46e93acbbe262cad14e30ed85bbc698a15263c374a1be5213b19d39a65
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXinerama port to iOS. Installs to /usr/local
@@ -762,9 +762,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXmu.deb
 Size: 817868
-MD5sum: b883d850562a06a040aa8b4208fbfb2e
-SHA1: 8316267d458d23059ed3100088200480212686a7
-SHA256: 1cb5f866c84d39b6b971943341437528b8f92f03bcbae83d7e8e7130dd6790c4
+MD5sum: 7847fe0e862d7d17c40ef5ce3332626e
+SHA1: b52182960bc0609e9ce1d1aec64b83ec39a8a0c9
+SHA256: 90a0d2633de9bf3a3117c3dc70102c385c93b27f36c1e2b2388d1b3f92bf9908
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXmu port to iOS. Installs to /usr/local
@@ -779,9 +779,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXpm.deb
 Size: 1586608
-MD5sum: 973d13d85e5382ded1b740bc8020c2b1
-SHA1: c3ba79b9974a04abd07943ee838eabc01ce9d502
-SHA256: 4eb038617d2eeb2f8edb971f9fd04942e4d4daf467c379bd309bb9c823e14617
+MD5sum: 3c670486d93f34c295463c945947abec
+SHA1: c40c04b866ed5b9f5bafc11198853d8a59db6363
+SHA256: 5213b812c52230f90f35b90c00feee756a4fb002c0983fdf99d07cb29d484655
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXpm port to iOS. Installs to /usr/local
@@ -796,9 +796,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXrandr.deb
 Size: 129932
-MD5sum: acf73ca427e5dd63622461e85a2530c1
-SHA1: 28e4c27e6b423ff32ff2fde373ef6fa48a4706bb
-SHA256: 13129691bfaf2e89ffd074187aba93e7c337faf0521910e415193eda03831767
+MD5sum: f1f6f0365874e1b1e7342d379b0bda6a
+SHA1: 21dfaea1f1f9b93545a2fd6accd95bcb5b69bbbe
+SHA256: 9404ffffb005a0c9edc88cee7b0acc551ee05488029677e23781a8da7aac50d3
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXrandr port to iOS. Installs to /usr/local
@@ -813,9 +813,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXrender.deb
 Size: 125400
-MD5sum: ac2ff94f0b8ec8569c9d55e93f11d6cb
-SHA1: cb843647de38572f21291e73f1fae54ebbfc981c
-SHA256: f12af35a175fb6b7521231494463f67784f07917523b55cb586c82962a84fed9
+MD5sum: 9622fb45a8b6adb4a74fa86429af1509
+SHA1: b695d4249e92210d8be2a06fc5fab755f3b43eea
+SHA256: 5d7c5b75d74f6b44f51c3c0debeb3bdd2c970b5c938cf4d157d10660ea741593
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXrender port to iOS. Installs to /usr/local
@@ -830,9 +830,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXres.deb
 Size: 456656
-MD5sum: 9e399621bfd7121ff1c3db8d21f5b55e
-SHA1: 784e91ebe6f06ef9005d2bbeee5ed25c00cfe654
-SHA256: 681983fa6899f1d7a23e206f969e3ad9064f791de00dc3fb516f02fcd7619dac
+MD5sum: 86609d1e5f450c407c5011dd8a2831a0
+SHA1: 72d72c7aa8625a7b43f4abc22cbd527c47cb6208
+SHA256: 3c18bdfcae02ef21baf8a45ac69761952b5368ba58792741961a1d75199bd81e
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXres port to iOS. Installs to /usr/local
@@ -847,9 +847,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXt.deb
 Size: 347740
-MD5sum: bcee9d2ac60bfa44079038dbe405c7ec
-SHA1: 5d8f7f9d40fcc2a3474daa5645d7c8d3a8dc7cd1
-SHA256: f7483a11088d430679fad5ddebb7d548b25ff845efb530a92dcbd81b77d317a9
+MD5sum: 839da1ac2a18def78b2f5f67c16d26b8
+SHA1: 85f2fb602c51d514d2a68d95a8a1f7a1bdfecb20
+SHA256: 3d3b2be37a85466b8b12a12ef60f44fb1578f24dee97b8b16c668c4c9662128b
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXt port to iOS. Installs to /usr/local
@@ -864,9 +864,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXtst.deb
 Size: 50236
-MD5sum: 60a0ebba6c5ba6aabb035e122ec5c94f
-SHA1: 5ef195261b902319d8ab6315969ca6b120116720
-SHA256: 756a7cceb30009b84285d2e35117b871d27069d1efc29a5aafa0b0aed17ba8c9
+MD5sum: d7773ce3ac954248f7370e16039a35ba
+SHA1: 51842a7d1938871a924f6aa47db686b3fc47146b
+SHA256: 64eaa7152a5ddeabfcd55ef304df22e4e388546ff6a64fe08c83c32f3de9c770
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXtst port to iOS. Installs to /usr/local
@@ -881,9 +881,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXv.deb
 Size: 19188
-MD5sum: 64e3489121f405cd7a1d9c9735747136
-SHA1: a8c71536ab46f1bf576349be7e18221ce75a566e
-SHA256: 0a0966b279c2117fd08b57025f962898f94e442a99fbcf6db6d52e1387f530c1
+MD5sum: 3a4e3c0589256ae2bd14958ebe9d4dbc
+SHA1: 26e3df4d439cf761c944068d47e22bda08e6e9b9
+SHA256: d96ee5c1471d0b8525236448dbbab29dbb03294d93b4e1026c46e2803d492f7a
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXv port to iOS. Installs to /usr/local
@@ -898,9 +898,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXvMC.deb
 Size: 22324
-MD5sum: 672ae20180c691a06983057af43fcd94
-SHA1: 7be1ad50b96da03963b74272c5c37320011df394
-SHA256: c9fd83a22a4cfcaaaea583c3200d35a753275d220121fa100dc1a29c81f20cff
+MD5sum: 280b6f303dda9c4876f07b078845c943
+SHA1: 17c901437d9ffed914ef3b79e0f5d0a72e7f8bca
+SHA256: 82b7710fbcf267318864c73ef903c3923a6bddf1485982e755245a30b1b0dab3
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXvMC port to iOS. Installs to /usr/local
@@ -915,9 +915,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXxf86dga.deb
 Size: 451144
-MD5sum: 5e87a4db05f0359557be105d998e9ed8
-SHA1: 5c07f86f163805684e0b4cf7f9afcf09596f3ad8
-SHA256: 7c2149376098c631cb3fda167f1ae6734c2cd67951cf30a54e40c3448a61ca4d
+MD5sum: 011df77753fe202e6c8c10efbb850ec8
+SHA1: 6c41633c5d6fee50b797eeb5ebcc6c7bd185e6bd
+SHA256: 794d71c24415dcebbae42170143146869a386210119a5e962b23ea0af0dfc93f
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXxf86dga port to iOS. Installs to /usr/local
@@ -932,9 +932,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libXxf86vm.deb
 Size: 12956
-MD5sum: b49b05af0cf2111eac1ed5438a979e40
-SHA1: 0fb5d73e8d946857020df77aaff10c88577dd540
-SHA256: 517bfd2e943ea9a77b51f22e4417d11abb3c7c680a88abbd5a665f4174547535
+MD5sum: 6d435ec18d710b1227d3db2b63ad0c26
+SHA1: 7d5f759902778b0881beab54c6429a28f27ddc7e
+SHA256: c4c5fa8b57166a44ca0ceb0a930a3b86147607d1f4ce3c2f19c09b1e7bd426ec
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libXxf86vm port to iOS. Installs to /usr/local
@@ -949,9 +949,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libdmx.deb
 Size: 467528
-MD5sum: 137c7d69ebfbd4bd3505fa0c8a5621ad
-SHA1: f784d6ef54d8c4db0909b91c7b6f4225f1c44990
-SHA256: 45a85a04447aea010a914ed17216d8b0ebb22a44a990fe6e5486d1f542b76c9e
+MD5sum: 7cec8e43490b454050005e1e44df96ab
+SHA1: 95e585f78cd761766f138864afa57cf885c02e1b
+SHA256: 1bd17a762cf9360eedbff9380817494506485541908cf3751d35ed7381a35e5b
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libdmx port to iOS. Installs to /usr/local
@@ -966,9 +966,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libdrm.deb
 Size: 327700
-MD5sum: 6d55cc02802d26654d17d7ea60faa334
-SHA1: adc544e794086b84841f05f46be64c01b14977f5
-SHA256: 3053c2b8da268cb9f769d49f96ba311a063fdbf93985d8afc50cfdd15215ea76
+MD5sum: 43858962910b24a80912ef273b28dd64
+SHA1: 82c217a5af72a74ec3aa8b3c8282b34bd5bf8c40
+SHA256: e4751d0d2f4a18e7319181aaaff7e7ee3eb9deebdb9d2b94137f5536b41e9108
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libdrm port to iOS. Installs to /usr/local
@@ -983,9 +983,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libfontenc.deb
 Size: 31340
-MD5sum: 62fda4df86315ffa3248b53117f2348e
-SHA1: 80337ae0b67a25ad9acd2d6f0834e0bcab7586ad
-SHA256: 4e1574a0a92aeb29f9aa8c1423ea42005c6137849549dea6575741bbcb812884
+MD5sum: d8b045e97cf23198de5a98f86a675129
+SHA1: 0690bac1268e0af2e1a3c06cbd82db0ec5e0041a
+SHA256: 57aef9609b3d20be0083c9a23158965226e5006b1c960f7ec24696215d841db9
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libfontenc port to iOS. Installs to /usr/local
@@ -999,9 +999,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.libjpeg-turbo.deb
 Size: 340208
-MD5sum: 71f4d0e445a3d292221ba6ed5d5d6c30
-SHA1: ac603570d31d4c91cf6acfbecf35e49b1fadd2ff
-SHA256: 67a3fd7fd0650a6ec9264dd15e801d2b4d97e740cd2e90b8ef7cde2b93412583
+MD5sum: 1aec1fe3526a7101367da619141e28a2
+SHA1: a1a94076927971a52a3246917e83340677a93918
+SHA256: 4fb059aa2885c4cfc6566e5fcfc90ccadc76b97314222e791975cb1930bb8d35
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: libjpeg-turbo port to iOS. Installs to /usr/local
@@ -1015,9 +1015,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.libpng.deb
 Size: 421216
-MD5sum: efa387582e704ba127d5c41e69bfefe1
-SHA1: 55a065c1a4727a711abbdaeff9e78f0c551dc29e
-SHA256: b780b6580d7050b8256997e6754de94e1db02ea09ef8b2823774d29d592135e6
+MD5sum: ae00b4acf826294b4a0d0d9be8b221f4
+SHA1: 283533c0eace5b98b915f5242e4e9c62775a6fe9
+SHA256: cda05c82da509b796569770df24fc1bcae83055e1bd72e689e837028582b041e
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: libpng port to iOS. Installs to /usr/local
@@ -1031,9 +1031,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.libsigc++.deb
 Size: 3656928
-MD5sum: ca902bfe6bfa039fa0387812fba861dd
-SHA1: dd4dbfd3985bd88077ab7a2c1e06e8aba64c02c9
-SHA256: 21f4c14ca783296b83c7f6dcfb203dc69f339131f30a1b8c6f255438ddb1383f
+MD5sum: 92726add5d9fa5d76a556e32aecc32ac
+SHA1: 87e46bfbdec6a05af2d84a384f120471cdecc022
+SHA256: f09b11036861f1e7361610d6ed9f05fbd7353fa60cab37f0e629b4deaf0cec75
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: libsigc++ port to iOS. Installs to /usr/local
@@ -1048,9 +1048,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.mc.glib
 Filename: ./debs/com.maxleiter.libtool.deb
 Size: 393868
-MD5sum: 057a5b34d6c9a799f41c93148be6b165
-SHA1: a462347399b5439430d72bbe02f9ca2c653a2855
-SHA256: d49fa6f81d89ba291c360b6dd3bb44ef37e542066767f378844c687a247e5e39
+MD5sum: f71ed27f8cb4c860f7b5b683479bedf9
+SHA1: e33af475050e6d6b4f3a3c7e04254df810eeec77
+SHA256: 71d83fb9bfce8f5d0424c212fb681f628261d086309df3f8a9e23525bdbec95f
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: libtool port to iOS. Installs to /usr/local.
@@ -1062,12 +1062,12 @@ Package: com.maxleiter.libxcb
 Version: 1.13.1
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
+Depends: com.maxleiter.fontconfig
 Filename: ./debs/com.maxleiter.libxcb.deb
-Size: 1036716
-MD5sum: ea39ffff718c458c9cda6f4ee8f971f9
-SHA1: 99e7d8f9c04294beb80819a81accd0abc32feaea
-SHA256: 29f345daff650a3efc7003a99ef3b61fcd9ef164b3b5c19a71a078bd1bd94b54
+Size: 1036712
+MD5sum: bd747c72b1806e7f968a2f7d7f5c0eef
+SHA1: 17a953c01e62c301c5f70e17b952c498a0504532
+SHA256: de4f76eb44caf1708de8454730c4e4352d64e6d4b5a30f844064d5444d562ee7
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libxcb port to iOS. Installs to /usr/local.
@@ -1082,9 +1082,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libxkbfile.deb
 Size: 506152
-MD5sum: 9527b8fe9c99c198723bd36fc3d9040d
-SHA1: 2f85156e9bf6a0cdd24e3a686aad58ca493e3859
-SHA256: c52929dd4758ec651dac64ff28879464528d84c3e88987771f63571e074925ae
+MD5sum: 51ad0a3a8055342e55f5b84381fb9e72
+SHA1: af6e103d42e2458b8644b07af02a1d9f79789052
+SHA256: a8c4390d3d3f89cb1dcbc208bfbb85892cfcb146b6a8bd3074603cb6003bf725
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libxkbfile port to iOS. Installs to /usr/local
@@ -1099,9 +1099,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.libxshmfence.deb
 Size: 4852
-MD5sum: cb6e02c069978a4e1d63751f77db7da2
-SHA1: 0fd854d3980d97d096f4f87f57024d0f98958d81
-SHA256: c7d130c09aee6f8f8781213f51fe138dfacad063e4e3a3dccbadacb00ed8a1b8
+MD5sum: 21e1aa6789e62ca2108145a0a7f1df66
+SHA1: dabc46c15d81eb43220eefb58f7541de8a87ea95
+SHA256: faadc16e4cd23c82babfd42b551966130c8a85356244c78198c5fcd4870df526
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: libxshmfence port to iOS. Installs to /usr/local
@@ -1116,9 +1116,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.luit.deb
 Size: 19008
-MD5sum: fa3f22d137e14d8573faa548ddfc72e6
-SHA1: e4f1edad7c67192808efbd0cbae4f02b964527bd
-SHA256: 99a296b09842b9d8b521b57e08bc0b22938aa51e1c55dd80f1b476ac3c30c026
+MD5sum: 9ffaa428e07b1f883ea514f2e168f0c8
+SHA1: 8ea9968d8269ee4082861c66d5141dd83c1ff3ab
+SHA256: 5ed51aec51966e3bc865f26ef164c481019e0c1c68d51ec4e7d81e0dc2da3f57
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: luit port to iOS. Installs to /usr/local
@@ -1133,9 +1133,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xorglibraries, com.maxleiter.libdrm
 Filename: ./debs/com.maxleiter.mesa.deb
 Size: 275176
-MD5sum: d65ffe58f95de7978103790d5198ac29
-SHA1: d7730b0ea0ac96ba3fb8a1abeed093a1bbb04106
-SHA256: 776e9866f47151df016b860e58f57e2c7c2d74d7b790b0827ba32c818c3712c5
+MD5sum: 59e7f088b5be7eb100cd923292f6a39f
+SHA1: 9d8f253166a390d2533c99bec28e91ea1c6c1834
+SHA256: 0caf35e91f4135688d1fb5a1542e63b8b3864e758cb34b4986402f980d427e61
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: mesa port to iOS. Installs to /usr/local. INSTALL MAKO WITH PIP.
@@ -1147,12 +1147,12 @@ Package: com.maxleiter.mkfontdir
 Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.mkfontdir.deb
 Size: 3688
-MD5sum: 19da9d4429cb7af18ae8462070255ce9
-SHA1: 69e8e825fc260e573df71b8aafb910e3b610af34
-SHA256: 289e17d04977c09fe6989ffbd98a2b3967963f2ad3989cfe2cf87781b7f4f1fe
+MD5sum: 5ea3bfe798127a96da6e4bbb91df797e
+SHA1: 91918c8854d9a93308cd3d1d86a862c1dea71e40
+SHA256: 07ef88741a3d2e9dfec718fd42806e0de7e87b9bd85fbe028a73f056ad75fb68
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: mkfontdir port to iOS. Installs to /usr/local
@@ -1164,12 +1164,12 @@ Package: com.maxleiter.mkfontscale
 Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.mkfontscale.deb
 Size: 18416
-MD5sum: a9288bd736967b093121ae84661a528f
-SHA1: 4c8dddd0338995331318b27d9703710a1fffaf5a
-SHA256: 7ccfba05b9132d88913c473b754a59ee65e7f9c8f6b1a38ca1da875d81d5dc4e
+MD5sum: 64e0cab913bb625e78e48778118ba128
+SHA1: e75bd3c63fb5f39e097872d4b6d92de5c7ad85cc
+SHA256: 28120415c645eb5712596f494bd3190cb88349ddcbd1e134d7f8da87be0b5a84
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: mkfontscale port to iOS. Installs to /usr/local
@@ -1183,9 +1183,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.ninja.deb
 Size: 68932
-MD5sum: c83ee3c44c511a6e0de990ace5a2833c
-SHA1: 6cb928a04f69164b38dbc61343c68d1f1a8e54df
-SHA256: 7a426f5b39e73ed14f1a504ac6320bed274e4e8c2f26f40806e473b129991935
+MD5sum: 29216941bec323ac2cc68dda8e57e3ff
+SHA1: d09836c39341111e606dba754442807e491ab7fa
+SHA256: d763bd655df6238d00fd130147be5fe2719e53f5ae080502d17de072703e96e3
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: Ninja port to iOS. Installs to /usr/local
@@ -1199,9 +1199,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.ocaml.deb
 Size: 17214744
-MD5sum: fbe6ec687f00607a662fb954a07ac6b6
-SHA1: 36e97ae638ff19ddb159f46cc639c2d77703f326
-SHA256: 4890c1bbfffdf64c5edc4f17e39d19ee191f188111e45d5444634e004ba62d61
+MD5sum: b721614c464da9cfa612f9794b931d0c
+SHA1: a31edc413e7c0a3e7f2a1996844ba6e14184c26c
+SHA256: 7743ab5f049048304e8c1f64cbe0d86d88fef503438338c77b18c9df055bfb97
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: OCaml port to iOS. Installs to /usr/local/bin. Warning: 17Mb
@@ -1215,9 +1215,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.OpenPAM.deb
 Size: 39100
-MD5sum: c1fe5f1afcc5df5f4a4597da8b8a1976
-SHA1: afcbdb759617e50a589c5a5138a5490b4c781310
-SHA256: 18cbbb561643b3754d0d7bca34b0ea98d2623cd40d89664a2ca1a6bf9dd0b795
+MD5sum: 0dd1d818829cd31d23f77dd913d7063b
+SHA1: 41940a724b2625a8a7a870e37919902bda196fde
+SHA256: 68d293db0f491bb81e2b822fc29128836ad01f22c4005e238af2a0a0a3fb32f9
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: OpenPAM port to iOS. Installs to /usr/local
@@ -1231,9 +1231,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.pixman.deb
 Size: 138364
-MD5sum: 9cd951c75a81f35113a5c81172ef083d
-SHA1: 5a0ca4f3ba37b01c53386b4031fd96529c28cf15
-SHA256: 44853065b95e04f6ba4d7abfa3171b011949a87e72986ad1404d97919d9db788
+MD5sum: d74cb57c1f9ca5a2ba34eab20dba7da9
+SHA1: 730c2be914069e5bccb95fe613df39bfb1c35010
+SHA256: bd12467958e22e751cf16e1eaba021bc876efb9b383f3572f28df12424319fcf
 Section: Development
 Homepage: https://github.com/maxleiter/cydia
 Description: pixman port to iOS. Installs to /usr/local
@@ -1248,9 +1248,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: gettext | com.mc.gettext, com.maxleiter.fontconfig
 Filename: ./debs/com.maxleiter.poppler.deb
 Size: 1060452
-MD5sum: 590129efd3ca7b29cb01de9da79c9728
-SHA1: 9316dd5cecfd421b225910b794e0be89f6d66aba
-SHA256: 919dad3a63899d9237726fae32b8f4b8c6ec08d393b6e797001c828f932b1b31
+MD5sum: 7c0c3ccb76da9ab7fa1f1753647d4d3d
+SHA1: 480137610acd1443955098bc4839cfd55c602043
+SHA256: 33d5e7dce664fce4929750ee59690833e97fe0ac104ae34838438be3259fb443
 Section: Libraries
 Homepage: https://github.com/maxleiter/cydia
 Description: Reverses stdout
@@ -1265,9 +1265,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: gettext | com.mc.gettext
 Filename: ./debs/com.maxleiter.rev.deb
 Size: 4160
-MD5sum: cf215f804730c4096d5e7face49ac8f3
-SHA1: 8dd2a6642940af8c05697dbd5b0b3c960463452c
-SHA256: 7c9af4bb261a2a76bbecbb7d399afd430268bf4d8b44dca6ee163c43c104d7b0
+MD5sum: a9537e4f187872335a57f4f79f31ee03
+SHA1: 53d6eaa126245eb031a1e057dcdc4dbbd0fa8f78
+SHA256: e53e9932c85f13947bb00c8bf6062eb82628f0bdf4b8654f97207b5c5995c066
 Section: Utilities
 Homepage: https://github.com/maxleiter/cydia
 Description: Reverses stdout
@@ -1279,12 +1279,12 @@ Package: com.maxleiter.sessreg
 Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.sessreg.deb
 Size: 6544
-MD5sum: 448f95156229ccceac980e36a7d45b00
-SHA1: 844240d466e896d1b13411cab7561ee9752d6618
-SHA256: 1fb0db0368a9f080137425e0fdb674b2c38301c63e3b4ba41b7caf44fc8458fa
+MD5sum: 0f2732e9f5a727b28f0db20ba41bcff3
+SHA1: cf399371f2baec1a357e2515d7a7d4aa77012804
+SHA256: f2b84fffbb9fe63f4bf5d20056bcd15f08507f816091e25d8bcf904afb408b8d
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: sessreg ported to iOS. Installs to /usr/local.
@@ -1296,12 +1296,12 @@ Package: com.maxleiter.setxkbmap
 Version: 1.3.2
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.setxkbmap.deb
 Size: 11852
-MD5sum: d41e075d10ef0e6fffcbf6824ac1ebdc
-SHA1: 00895cde7d1ada9cdef79b17a0bdd4cd91aff4b7
-SHA256: b8701ec5c65f622b5b0d077f2d639b59a09e12ede0682830fb8433b86e89f325
+MD5sum: c088017048d4c11a52d0c12495846585
+SHA1: c8f34715167cdcb61f46ba7d450ca01bb52c05f7
+SHA256: 174f8485e86ec1c2a938e5a0ea4fe673a270096ee91d3716521662d6040c89d0
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: setxkbmap ported to iOS. Installs to /usr/local.
@@ -1316,9 +1316,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xorglibraries, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.startup-notfication.deb
 Size: 16972
-MD5sum: a3ffaccac9621999d7ff1530b05f419f
-SHA1: 27adce4e99c8059fa33410cba671f6687c3cb942
-SHA256: 08c0eb91bfc72dca1373ead13d105d28f278aabcf5455ed88bf27978a7f2b5c0
+MD5sum: e760e8b84fdbaf78f768075d2a556c23
+SHA1: 89719e4240a1ea81d51dd6c4ec99e59c67c228c6
+SHA256: 1154d5b65fb72f657ad66bed918136e4e661a4426522a1d703c14b1f633bbd34
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: OpenPAM port to iOS. Installs to /usr/local
@@ -1333,9 +1333,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: gnutls, gcrypt, libjpeg-turbo, com.maxleiter.pixman, xorgapplications, xorglegacy, com.maxleiter.xvnc
 Filename: ./debs/com.maxleiter.tigervnc.deb
 Size: 275004
-MD5sum: c32699aa7f38c109b7dda718e15bdd5a
-SHA1: a2872100b6d1e8100e6c16df5da541992359e55b
-SHA256: 9701cfa6f7fdc74972874af80764b69dfe514981da39b2ed3e1f65eed32231e9
+MD5sum: a43e010ee35e90a1052596c94e63b72b
+SHA1: 8771ca0a6f5a77947904409e389b75c1d723cc04
+SHA256: 49ad5d7340e2396c36d9f1a62e5e6d1b5d147625ac972f4d2cccd99d1a963640
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: tigervnc port to iOS. Installs to /usr/local. Note: no Xvnc here.
@@ -1350,9 +1350,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xvnc
 Filename: ./debs/com.maxleiter.twm.deb
 Size: 88796
-MD5sum: 644aa4d4e9bf699b08fc010f07a7f0a4
-SHA1: 16b9c36c21f85e9ad2741b0db191be99a62e1c85
-SHA256: c63899b1b279f0ba083bab075dfcb66101dbc4a727a728b4e850b1a9f5d1522b
+MD5sum: 2c45d253729ce7fc91f9126679172091
+SHA1: 6c2e04d82eb0a86ed3be63c2f08a9757266d53cf
+SHA256: acc89c9c4e4cce755a46b8a6ee50561460969ed2983511c2b7b4419da890ee17
 Section: Window Managers
 Homepage: https://github.com/maxleiter/cydia
 Description: twm port to iOS. Installs to /usr/local. Note: no Xvnc here.
@@ -1367,9 +1367,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.mc.ncurses
 Filename: ./debs/com.maxleiter.util-linux.deb
 Size: 150784
-MD5sum: 7c293014f7176c0ed3745c20bb7ba6d0
-SHA1: 00e8799e1c33b541fd1d682cfd783630cb4a1dbe
-SHA256: 05caee2a359445d14216972f8a38ce15a10d6c19374665d8759f070ada66e8a6
+MD5sum: 7718bff55297a639bdc34c94d45384fd
+SHA1: ed2e52a9e038a62340b1026023634c9038ef9704
+SHA256: 5475f73b3aa02c8db4d4b4745733063ff53854a1c23cf21ea95e1830498d9521
 Section: Utilities
 Homepage: https://github.com/maxleiter/cydia
 Description: Common linux programs. more, less, mkfs, cal, rev, etc.
@@ -1383,9 +1383,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.util-macros.deb
 Size: 21568
-MD5sum: af7170f3e7e4f79ae8cc11511f2c342b
-SHA1: 7cd9c58e2a7570c910e160570b078ac7f7dbbec5
-SHA256: 1b68970928e699279a3a8e2acb918379126adf4feb8285b330147817ade3fcb9
+MD5sum: 7c196dd19384d9b23df6936ebffbc340
+SHA1: 3a6d0c3d23e31a56b5e5a112fc3ef0ecaf533481
+SHA256: 945afb73e01aae1639bf673da5bb3fc95c361f0ca4c0d74f6784527412b67dc8
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: util-macros port to iOS. Installs to /usr/local
@@ -1399,9 +1399,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.watch.deb
 Size: 5216
-MD5sum: bac8bba150db646bb73cab62ea951613
-SHA1: 9b61fc95057000d80ec9a6d6b8fe49309e8321cc
-SHA256: 95310f85e113e28a5c4253e433b9b9f6d25a253e7e2000eb81c5adc5634d65d3
+MD5sum: ea5b54f15ec541e705a0495691e12753
+SHA1: 26c8128fbf623463063046c51bee590dd6ad291f
+SHA256: d099d48818ec2c6d452635eef09b0e87cc61edf716cb82894c4be73b9edc1f36
 Section: Utilities
 Homepage: https://github.com/maxleiter/cydia
 Description: watch(1) periodically executes the given command - useful for auto-testing, auto-building, auto-anything
@@ -1413,12 +1413,12 @@ Package: com.maxleiter.x11perf
 Version: 1.6.1
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.x11perf.deb
 Size: 62940
-MD5sum: 07c8e4ec6dd7d0b6186b6cc44764f38b
-SHA1: db186efdc7af5b15a797d8c10ed3b4b6f3a7787a
-SHA256: 4621d19557661e1c010809b6682ec910cee6d7902bc117624b0992dea4edfea1
+MD5sum: c50746ea450a075e10792a78af3ca4de
+SHA1: b206c38f5a87e23ae02af25632a67dd00fbae0e3
+SHA256: d49b055809e86833482059fbc2d0801073098b9c7d02a6006ed70efb3d6cc363
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: x11perf ported to iOS. Installs to /usr/local.
@@ -1430,12 +1430,12 @@ Package: com.maxleiter.xauth
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xauth.deb
 Size: 19912
-MD5sum: d1d7d427255dc33139f09aaf55658fd2
-SHA1: 507f1b84538e5fae57bacccf85c3cb88f09af5fe
-SHA256: ef37cef05a3ae4147f580f81620f9e2ca4fbad9b34851f0bae54ef05c3481aca
+MD5sum: b14c87324834aded9d19a380c1c9e53e
+SHA1: a601c8babbc6f13f12152385733925a57455b470
+SHA256: cfd51e94f04dff1afe0391afd9a5141462122ca09dcdc578037ae010592284c3
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xauth ported to iOS. Installs to /usr/local.
@@ -1450,9 +1450,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.util-macros
 Filename: ./debs/com.maxleiter.xbitmaps.deb
 Size: 18624
-MD5sum: f100cc68c0f035b98582f0c18ad5f8b4
-SHA1: ac7ebb39685aa198c2de704b961610c0b47f0498
-SHA256: ba98feca8b23420762e40d8df949cd3fbe61123e03d5105258b0ca05986fca63
+MD5sum: 74063bb9bd5055fe2d65b303d5b0c1ef
+SHA1: 479d1c0d0542cb6d8bca20e1bb62350c8d8c853a
+SHA256: 797db42a5dc085e9d79510274759c8b725eca333a53c42c057a609fecd188a89
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xbitmaps port to iOS. Installs to /usr/local
@@ -1466,9 +1466,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.xcb-proto.deb
 Size: 102476
-MD5sum: 9ad79caa11004b3239b76aa02d401230
-SHA1: 9a19ad3f723f365537f2052ed53121917fb1915b
-SHA256: 2b6df0cfcbb51f56124f6b41310a9a5c77788a7fb40f473d414d04fa291ad029
+MD5sum: 2b49ab4ebdf3b188e43ee1483823888a
+SHA1: 27eccab7fa30846a8d4d0edb321edb3fd569dbd0
+SHA256: d8a87f6ed9ce14aeb327276ee4b06bca70bc2340f13849310b7907397313ae29
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xcb-proto port to iOS. Installs to /usr/local
@@ -1483,9 +1483,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.libxcb
 Filename: ./debs/com.maxleiter.xcb-util.deb
 Size: 9648
-MD5sum: a75453f5a23354226a545d4bfbf042ce
-SHA1: 72fb321d50ccaab78947f89dcf92b14a3bea5333
-SHA256: c1cb6a37d6115f5b5305ccaa59943afb8d43bea23bae42984fe31922be448811
+MD5sum: e1097fd04098be4def6a87dff4a39c0b
+SHA1: bb9990056b27ed89455c08225d4535cc6974fc17
+SHA256: b2f6ddfe86ce84b64b2ecd42d37cbdd14b54f0451d10f0af2b04205e10bf8308
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xcb-util port to iOS. Installs to /usr/local
@@ -1500,9 +1500,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xcb-util-cursor.deb
 Size: 9996
-MD5sum: 9641e892a782d7dfd85c11f519174c74
-SHA1: 5e7c4897192dd1cad033ffd43b83af12853d7ece
-SHA256: cd0e3945a77389e13d0a5bba6344bd5d2be9b01afe8436056dac38942d6104f5
+MD5sum: 930c002915afc86adb75ed3d102cb396
+SHA1: d07748221978bffc83dfd981dbf39aaf3f61165f
+SHA256: 154d4e6f13663d1f70e1aa0c1eff5121f148f644c35a6b6c82911482aa7ba998
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xcb-util-cursor port to iOS. Installs to /usr/local
@@ -1517,9 +1517,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xcb-util-image.deb
 Size: 15484
-MD5sum: 305aad76a4bd90bdc2cb8e3fa46a6f9b
-SHA1: 3f0412a765acdc3f064374c8e14701a2eade0132
-SHA256: 68799f556ab73d12998520a0d01ce1d668151af2f580adced4eff22562045759
+MD5sum: d60f56e27965ed67bd65352536c891ed
+SHA1: 4b1b9966ca257cd98e86b8b209baa09d777d8a45
+SHA256: b464124b14579f9053cf8247b8d8de3b160deb27c73cacec03937f6200f5159c
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xcb-util-image port to iOS. Installs to /usr/local
@@ -1534,9 +1534,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xcb-util-keysyms.deb
 Size: 5640
-MD5sum: e70c4f56ae9a29e9bad0974ae7edbd4c
-SHA1: 6cb8a79dafc178f85ba165fb1bbb16255ac4339f
-SHA256: b6b7f818aadeebc8ad0c375718aba094b9a2ae2e2405783c0f51bc68c58c5424
+MD5sum: 3a96e10a74f7f0710baa7d9ce60a9ab1
+SHA1: 0a67f197ef9c4a53708741d971381229d5a238b5
+SHA256: f2dfde75e2409ad874c47af13c3c97fd4e0bc553f0464fb4d4060980e21553e9
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xcb-util-keysyms port to iOS. Installs to /usr/local
@@ -1550,10 +1550,10 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xcb-util-renderutil.deb
-Size: 7460
-MD5sum: 3b38fe512ebd5732205d022bc891560c
-SHA1: 74080bc733b3cab6d39fed4c45824ac8e1d8ccda
-SHA256: e67206f492cd0721498051c335a09f22ad4cfbd8b50ce8f62eaa1b5cf8afa92b
+Size: 7464
+MD5sum: 351d8e43cf2383417cf6193d7f883934
+SHA1: 5e3600059a8d4ac266f2d36aea251855ef865c39
+SHA256: 5d54470bad3863c22064a59ea51db102a857a837990f81676af4126825e2c7de
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xcb-util-renderutil port to iOS. Installs to /usr/local
@@ -1568,9 +1568,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xcb-util-wm.deb
 Size: 31312
-MD5sum: b72a427cbed32210711a6e1f87d092bb
-SHA1: c8c2896d297ffe4ff464cf1d355f12f751ca4256
-SHA256: 73a5a7bf565cc688676a6d6534caba2ee1cbe9cd8d3385f06852412e6ab5f52a
+MD5sum: 982ece301abf97621bfb3e29087a7e36
+SHA1: 207cca2c8db2c98c7d150cfab6a28ccf02d0fb1b
+SHA256: cf4b39bf6e88f688f7545109206c89ae9599605f38816c56ce84bc622edf0c0c
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xcb-util-wm port to iOS. Installs to /usr/local
@@ -1582,12 +1582,12 @@ Package: com.maxleiter.xclock
 Version: 1.0.9
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xclock.deb
 Size: 30452
-MD5sum: 39f630b5972f1db5c650767d8d8bccd1
-SHA1: 6e27511b816a3aa0f9c0d616be4de41c69944d22
-SHA256: 7c791ba6b358e439e9aef3a0dfed77a6f0824d9d9d60f93764a4df8fd88e8912
+MD5sum: 1c9ada34eeea74ede0cbb492a0471c45
+SHA1: a6b7584ad29fefd215c6f2ba6505fa3024c61cbe
+SHA256: 75a3d354fecd4263b4d54227dbe1e60e64ac55b72b802c370c46c93f04c96fdd
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xclock port to iOS. Installs to /usr/local
@@ -1602,9 +1602,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xorgapplications
 Filename: ./debs/com.maxleiter.xcursor-themes.deb
 Size: 311852
-MD5sum: b6452a96b65312583d8f5f0c140ebda5
-SHA1: 3beaad53f7a6147f1f21b491a65a45aa69981e9c
-SHA256: 4896cce36c8e71cb48db08b0fee0ede17d90361711351c5125b6d2e08ecc75ce
+MD5sum: 2b692de38a333da4ff69c30f86d709d8
+SHA1: 9fb5eb1582aabb4065a678b508a3045b54cc609a
+SHA256: f8b7012bf4cbbaf8cb1ba06c80029d4b0067982a19b4bc682ededec88c0d9b26
 Section: Cursor Themes
 Homepage: https://github.com/maxleiter/cydia
 Description: xcursor-themes port to iOS. Installs to /usr/local
@@ -1616,12 +1616,12 @@ Package: com.maxleiter.xcursorgen
 Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xcursorgen.deb
 Size: 7020
-MD5sum: c030c7c674997bfb068452d31b49b816
-SHA1: 5bf3799119c797455ed5f72182f58c0a13fcfdd4
-SHA256: 952e706ca4ebb05f4cc42ff012495110854be3690efe12e8249f65c4e9717662
+MD5sum: 68ca7a51b55502f4257085f700689bfc
+SHA1: cf981c8cd451c49a53906262d28042c74fa3e4cc
+SHA256: ce54524591d49c3ce1cf3e81be72cb41137c78b20a739388b2578148d7d3aa7e
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xcursorgen port to iOS. Installs to /usr/local
@@ -1633,12 +1633,12 @@ Package: com.maxleiter.xdpyinfo
 Version: 1.3.2
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xdpyinfo.deb
 Size: 35272
-MD5sum: 84a7ed435bfa19371f8e984badc792de
-SHA1: 5f7a6e9fdebf4327205f9d7d1efa5beef34199b4
-SHA256: 337359c5dae2840ae660408779a11abc1cfca34c11a6e3ebc31023221556ec8e
+MD5sum: bd5906714929a997ae56ef9538c75e52
+SHA1: 0c41a198b59eb7d2cf28d6049e248f2f456aeb03
+SHA256: 3ec06ca2b9ec1da85f047664dc053dce5c1287f4e9642e37ce08200fe7f07ec8
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xdpyinfo port to iOS. Installs to /usr/local
@@ -1650,12 +1650,12 @@ Package: com.maxleiter.xedit
 Version: 1.2.2
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xedit.deb
 Size: 916
-MD5sum: bc4ad30fd8604487d5ecce466b1fe96a
-SHA1: c0e707d031babb0050dd01aa286add839da40615
-SHA256: 8adeda0c011a8192f3f1ed86c8b2636efc0f00f261d3263e76216296fdfafe88
+MD5sum: 36df1e3c6f2ea9896c9fec2fba5f058c
+SHA1: a681843c766a3981ac753d053c71790b95f00dc2
+SHA256: 90f39f30d4b16e39747e013d828306d7e1305ae1684622406658aa311b0fe9fd
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xedit port to iOS. Installs to /usr/local
@@ -1667,12 +1667,12 @@ Package: com.maxleiter.xev
 Version: 1.2.3
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xev.deb
 Size: 11636
-MD5sum: 591e5b3f09561961a0d6a5c5244414ef
-SHA1: 1d93b5d6e30eeb8d08b892f89825426ab882dc90
-SHA256: 2bba8655bf71edd955aee3f35ff9a0d09247d6ef27c992b932373fd56822e1c3
+MD5sum: c8cca3e3a819abdeb02bce4876ba72fa
+SHA1: e3da1de75fb798185b1476543cae29287342653d
+SHA256: b643616a8b748bed243645b45dc8342abca33349cfd8c0bc90b52e06c222ae88
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xev port to iOS. Installs to /usr/local
@@ -1684,12 +1684,12 @@ Package: com.maxleiter.xfd
 Version: 1.1.3
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xfd.deb
 Size: 15084
-MD5sum: 7e7ba1bae60056f1bf1419149677e21d
-SHA1: b974d412ce863a88c582f0f027e90f1b70114115
-SHA256: 58235e93cc8edcf6d017456539ee3206016cc98b8f9e5ae65fc3d54af9bca522
+MD5sum: d62e1fd5ef515985532ce2ea5a24f30f
+SHA1: 611a8098442b636e84e740fd634b67b740bb7b39
+SHA256: 8beb21271754dc5d21ef59d9d038a37142a92b807417acc99bcf4596557329d1
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xfd port to iOS. Installs to /usr/local
@@ -1701,12 +1701,12 @@ Package: com.maxleiter.xfontsel
 Version: 1.0.6
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xfontsel.deb
 Size: 21052
-MD5sum: 5ae0d1fa7302307a54dde29ff950210e
-SHA1: 13043d1ac164b5b512e92e835d5b41dcb6fe6f65
-SHA256: 03d67ba180bc02c20c6f72d3275e494b16782c8acd8206d0baf7a6ad91b5d507
+MD5sum: 493c9882eeb2491bbd4d82ea994626fb
+SHA1: 66fecc0df313794220dd43ed73041330ffeb66ae
+SHA256: 96f3105d14d2e4b5fd4e534bcce6fb51cb80049e5bc4c02345438158cb32cb69
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xfontsel port to iOS. Installs to /usr/local
@@ -1718,12 +1718,12 @@ Package: com.maxleiter.xhost
 Version: 1.0.8
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xhost.deb
 Size: 10100
-MD5sum: fae4fda03d6751d58b3a9a65fc2334d7
-SHA1: 9023662c3c9ade9fe49a95b038fcf58159ffaba0
-SHA256: 70aa82f7ca2b46cbfed41327cb5edd036d07a54f96d1c5892e9dc77cfd9ece52
+MD5sum: 37d8d5e8cb1196a6a9d77018507ec856
+SHA1: e85344c1eb174629131861f51eb75438915e0590
+SHA256: e4081004b5ee505188887490d6865e1270292d2a17c474484bc2544a70c721f8
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xhost port to iOS. Installs to /usr/local
@@ -1735,12 +1735,12 @@ Package: com.maxleiter.xinput
 Version: 1.6.3
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xinput.deb
 Size: 22244
-MD5sum: e4bb36738047c76a09dd40401bcc2a2e
-SHA1: 45ff8f635528fa3f35eda2f6e9bf4cccb8cb5a2b
-SHA256: 1216c68c3b3d51f15d1521eccc7a56e7500962539d6e6ae751629e1c2723783d
+MD5sum: 1e46840f1e5a0f0ebc1f743296827dcd
+SHA1: 4cdd0ffba51e0577f954105426c554b5862bf972
+SHA256: 4d40851d9c3542ad844a49de79bd16c22cb64c3301e18346234265f7b49a389f
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xinput port to iOS. Installs to /usr/local
@@ -1752,12 +1752,12 @@ Package: com.maxleiter.xkbcomp
 Version: 1.4.2
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xkbcomp.deb
 Size: 78288
-MD5sum: 8e1efeb5ffe3960223fc2ad1b1afc255
-SHA1: 76f72765d86a3510dc5abccf0a44bfe5e6b08757
-SHA256: a700f2611321be5bb90b3c0e7c21d749fc777ab339a059f5f1088291f69d1a3b
+MD5sum: b59568795acab99178fda99224b172a7
+SHA1: 777c3045a3d82a711a5d8c34c9e51e75a947c73f
+SHA256: c7edf38ce53c59a49419d866c88497d2b36c09a0d46ef08dfdc24a3b5086ad09
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xkbcomp port to iOS. Installs to /usr/local
@@ -1771,9 +1771,9 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Filename: ./debs/com.maxleiter.xkbevd.deb
 Size: 15648
-MD5sum: 603b3f95bdd10c228f345fc88a39dd78
-SHA1: 65e3c6f6a28645601a92c88ca7558fef61f1ecee
-SHA256: 9c17b6c27f0c79ad90b7530521e9b8a1165efc60b13d50af405ca11ce686d76c
+MD5sum: e58145f339e3dbeb0af92bf55f797eef
+SHA1: 6e39f700c6a30a86091bf9c4ddaeb131b51e096b
+SHA256: 49ea7f2c3989c51606703b6f189c9f70f7db6f5da6d82787846ee9a98f59e634
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xkbevd port to iOS. Installs to /usr/local
@@ -1785,12 +1785,12 @@ Package: com.maxleiter.xkbutils
 Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xkbutils.deb
-Size: 14724
-MD5sum: c6a7e952473ef7c2ff62a84ad05f1d28
-SHA1: 7fedfef90dd32eae309eff1ad1b49be749907a57
-SHA256: 5da264ebf123282215a3683001b5dd7b02447226a343bc59a85559f1b8166565
+Size: 14728
+MD5sum: 504ac792659e9f9fe487efadc124dab1
+SHA1: d8f56bcb688618de2e3da18c1f9589dd5ef4384b
+SHA256: 2b06670e621a7d4adb3ef2c7caea08c8b3557644ce883e74d67b3f9b5b3926d5
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xkbutils port to iOS. Installs to /usr/local
@@ -1802,12 +1802,12 @@ Package: com.maxleiter.xkill
 Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xkill.deb
 Size: 6716
-MD5sum: f466322034c175663e3efb7b36f25e74
-SHA1: b84ec1da0e619cbc14f3a3c71e1af9444cb4c2c3
-SHA256: 117f7b6344c465be482f5e2bf84324e3bf3a049f06ff80468c0901ccdfea867f
+MD5sum: 028e6129857e91018baf319e1723202b
+SHA1: c0b35acb0d77eb5e2c0974826b54cf5af21ca167
+SHA256: 2389873917003b41ea51241ca0f28ddc4d4e83eca34361803889e7c2e1ef3598
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xkill port to iOS. Installs to /usr/local
@@ -1819,12 +1819,12 @@ Package: com.maxleiter.xlsatoms
 Version: 1.1.3
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xlsatoms.deb
 Size: 5676
-MD5sum: f78be3ef0d86e1a63e171e2e8cdf8481
-SHA1: 3e1b34b0b72b943802e247993df598e40c1dd152
-SHA256: 0fdc32437442bd350474e038953e6662fca7d0073a7c108fda371d10b6e4bc55
+MD5sum: 66d3a3c1de8973040c1cb023222f3733
+SHA1: ee85f90734c242079bd9b20656969f7e6b236120
+SHA256: c65bad6d0864987b421dc8c95128823b482ee9196cb2dd3636faa1e2bb4f6663
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xlsatoms port to iOS. Installs to /usr/local
@@ -1836,12 +1836,12 @@ Package: com.maxleiter.xlsclients
 Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xlsclients.deb
 Size: 7276
-MD5sum: 69b58f706f51dfb424f1f1434f197d03
-SHA1: 5cc4f63df80a815f559f0278ece28e084909fe23
-SHA256: fe4c234b22e9f8cc1a48045486d3e35ae87b6fad7341c93f77c9afbb51423062
+MD5sum: 9cbc437e567b152d3111df0db2a546f3
+SHA1: 8c146b12c00ada44ab4841afeb6627e009a69e89
+SHA256: acb791d1923213bea572437f0a1c10cafc1f953791ba67614ee31443726443a3
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xlsclients port to iOS. Installs to /usr/local
@@ -1853,12 +1853,12 @@ Package: com.maxleiter.xmessage
 Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xmessage.deb
 Size: 10408
-MD5sum: 908d637d46198d13aca2c6ed246720c1
-SHA1: d20d0df1e08caea7263450f6ec8aeef700cbbd30
-SHA256: 69853dd68553afb589651e7e3e2a4dedc48cd8f80add6b8f61e2416ce9bf37d2
+MD5sum: ae7944fbdd2a97fb54ad703099a59d23
+SHA1: fdffb21538b670c4a1d4443230b4538a09c3df07
+SHA256: 7ed66899129c9955a9ea83b9317eb8b9a7d9cbe09e225f84743683de4d7485a1
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xmessage port to iOS. Installs to /usr/local
@@ -1870,12 +1870,12 @@ Package: com.maxleiter.xmodmap
 Version: 1.0.10
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xmodmap.deb
-Size: 20256
-MD5sum: 8cc87bc2c645eb0720b9a99e6f46d35f
-SHA1: 1478b7242ea98fbf5c38b4b43b776be55a1e7529
-SHA256: 2209270c8894eda04b956de875020dd4b7dc42a69e9a197733e3bbe5fe8a37a7
+Size: 20252
+MD5sum: 90302ca0b2f959f796d7a031fb56cbcc
+SHA1: 03225c77b672e7b728faf21aaef4318aadd28125
+SHA256: 5862536e9466eb552be2700ca755f90100e702a978198f8a3ab8ad5b4514ccb8
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xmodmap port to iOS. Installs to /usr/local
@@ -1890,9 +1890,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xorglibraries, com.maxleiter.xorgfonts, com.maxleiter.iceauth, com.maxleiter.luit, com.maxleiter.mkfontdir, com.maxleiter.mkfontscale, com.maxleiter.sessreg, com.maxleiter.setxkbmap, com.maxleiter.x11perf, com.maxleiter.xauth, com.maxleiter.xcursorgen, com.maxleitere.xdpyinfo, com.maxleitier.xhost, com.maxleiter.xmodmap, com.maxleiter.xmessage, com.maxleiter.xev, com.maxleiter.xlsatoms, com.maxleiter.xlsclients, com.maxleiter.xinput, com.maxleiter.xkbcomp, com.maxleiter.xkbevd, com.maxleiter.xkbutils, com.maxleiter.xkill, com.maxleiter.xpr, com.maxleiter.xprop, com.maxleiter.xrandr, com.maxleiter.xrdb, com.maxleiter.xrefresh, com.maxleiter.xset, com.maxleiter.xsetroot, com.maxleiter.xvinfo, com.maxleiter.xwd, com.maxleiter.xwininfo, com.maxleiter.xwud
 Filename: ./debs/com.maxleiter.xorgapplications.deb
 Size: 988
-MD5sum: f07e65de6410afb943d7ff4e2b8ac9ae
-SHA1: 6e361ba852064840f7018bbbd55cce98b255c215
-SHA256: 0c94a84f97b23017187626b6800f84608982d09c2dd469e9c762c5ac0e112f90
+MD5sum: 21bf2043578c1e3d9e009113ddd2a8d8
+SHA1: c20a1960df243bde3061f023dc4d648b373159e5
+SHA256: 1dfcbd4faa3caa121e5ba808a640c034ea99a1213703989b7c0c632839e072e4
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: Xorg Applications meta package
@@ -1906,10 +1906,10 @@ Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.font-util, com.maxleiter.encodings, com.maxleiter.font-alias, com.maxleiter.font-adobe-utopia-type1, com.maxleiter.font-bh-ttf, com.maxleiter.font-bh-type1, com.maxleiter.font-ibm-type1, com.maxleiter.font-misc-ethiopic, com.maxleiter.font-xfree86-type1
 Filename: ./debs/com.maxleiter.xorgfonts.deb
-Size: 876
-MD5sum: 5e5b19707a7df51662590932b3324a53
-SHA1: 96f7a8ec549e73efc12012640852adf7bad85f11
-SHA256: 97fa76a07580d0879c97008bacc1d179281f35dbd14455ad8eece273d1919972
+Size: 872
+MD5sum: f59ad5752df4445c7bdc5b35b430fa7b
+SHA1: 9481632a1a6c9cbb8c0369fe8a560242fc2417fb
+SHA256: 9a8347fcfb541b718cb09c9cc90b622d07153d43472ae7b004f2b1521d92cc38
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: Xorg Fonts meta package
@@ -1924,9 +1924,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.xcursor-themes
 Filename: ./debs/com.maxleiter.xorglegacy.deb
 Size: 816
-MD5sum: fc9625b14db603e86e0748cfde7d24b5
-SHA1: 13ee76c9f5a130b8168c1b9e576e1fd54d1571bb
-SHA256: c05e8d1c03941d183bedbf78f5391e9c1edca466b7a55c21b0bde6ae425f3813
+MD5sum: b34bf34f30b923d5800540d1352caeaa
+SHA1: 2bc336fcc5e4bc44b8a7b25ebaade5719bf68f5f
+SHA256: 8e3331be115d7f2371f7c07c8904b82e01d7843bdb5124a88dadda647685d72f
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: Xorg Legacy Fonts meta package
@@ -1941,9 +1941,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb, com.maxleiter.xtrans, com.maxleiter.libX11, com.maxleiter.libXext, com.maxleiter.libFS, com.maxleiter.libICE, com.maxleiter.libSM, com.maxleiter.libXScrnSaver, com.maxleiter.libXt, com.maxleiter.libXmu, com.maxleiter.libXpm, com.maxleiter.libXaw, com.maxleiter.libXfixes, com.maxleiter.libXcomposite, com.maxleiter.libXrender, com.maxleiter.libXcursor, com.maxleiter.libXdamage, com.maxleiter.libfontenc, com.maxleiter.libXfont2, com.maxleiter.libXft, com.maxleiter.libXi, com.maxleiter.libXinerama, com.maxleiter.libXrandr, com.maxleiter.libXres, com.maxleiter.libXtst, com.maxleiter.libXv, com.maxleiter.libXvMC, com.maxleiter.libXxf86dga, com.maxleiter.libXxf86vm, com.maxleiter.libdmx, com.maxleiter.libxkbfile, com.maxleiter.libxshmfence
 Filename: ./debs/com.maxleiter.xorglibraries.deb
 Size: 968
-MD5sum: 497afd064c7a1e94cdf5db9aeb5e4357
-SHA1: 55a8190791674acfb82b51bfafc6e6107f37a327
-SHA256: 9d7c1d6a9e570a13b97a13a3cc1a6c2d7079e763779840399389d373e7ccd78d
+MD5sum: ecdfeef9ecba02e69a42b0e27cfe3e98
+SHA1: 43b7157de7a81fa38b9a5a9645ec533a2d957b89
+SHA256: 0705315c7fdb96a0fec19e482b8c759e4bb18068167ae122d200c10685fe7151
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: Xorg Libraries meta package
@@ -1958,9 +1958,9 @@ Maintainer: Max L (maxwell.leiter@gmail.com)
 Depends: com.maxleiter.util-macros
 Filename: ./debs/com.maxleiter.xorgproto.deb
 Size: 163904
-MD5sum: 9ff3b47257f5dffc7d5a8a94e5d143ab
-SHA1: 2b5fd43902732aaaaaf5281173bbc8f25ff18020
-SHA256: 4d1e0af7a21795259f9d766be8abdc6e98bcbfa1c4523e6e8c6646b7c8baa2b3
+MD5sum: bb3f5f8a2760d8395974630e4801fa9d
+SHA1: dfa3d60cfde91ca6c5aa406cfdbb9b10e6e8b54a
+SHA256: 0b387aca5c8933cb13066f96f6d3f6d312c9835835aee2b145f0feea19c629cc
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xorgproto port to iOS. Installs to /usr/local
@@ -1972,12 +1972,12 @@ Package: com.maxleiter.xpr
 Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xpr.deb
 Size: 28328
-MD5sum: d81ce015c976dbcd9bf1cac1e73452d9
-SHA1: 4b1ea50225fd1e78fd0f1ff0a33cedba45849ae2
-SHA256: 5909fe93cd8ddec28ca40c88772bb81fffb41742ac66560ba43421bec46c1cae
+MD5sum: c417dd141619ccdb3f4ace6f3c437949
+SHA1: dfb888cc705a301b8d160caa2c99cabbec9b30bf
+SHA256: ef3941d7988621ef4d4405b3ae9aa17422c4192617a3b0baeb77dda0a0b1b5e3
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xpr port to iOS. Installs to /usr/local
@@ -1989,12 +1989,12 @@ Package: com.maxleiter.xprop
 Version: 1.2.4
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xprop.deb
 Size: 21700
-MD5sum: 122a5b217d3c218c01679668334db29c
-SHA1: 6caff0be1b86ddff6fcf5f27e3dee43366dec215
-SHA256: 21f6259794d1de2ba82bb094e545e03b14b649fd076330b508d627f3860d9955
+MD5sum: d78a0c7a3ddec02b737ca79d7ef33257
+SHA1: 6057fae1d05a413fbeed72d013447b3f4618a93c
+SHA256: 067d48b4d1ee609224efe5fb14d4f9a686a1045ce8a60d4030620f9911d03995
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xprop port to iOS. Installs to /usr/local
@@ -2006,12 +2006,12 @@ Package: com.maxleiter.xrandr
 Version: 1.5.1
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xrandr.deb
 Size: 35104
-MD5sum: b22b4cdc6444ede2f321df7e5d083206
-SHA1: 925ce82fff82117b2af1fa1b7125918b8aae7e8c
-SHA256: 8e84aa4020cf88b639cd1809c5e743e384bb2c70a5e9cdc10d4132436c52416f
+MD5sum: 83e80d7035a7f5865ebdca4a17cba0e3
+SHA1: 0a32d10fa2e0db08f45c3620825c699ab010edc4
+SHA256: 34e02b259e4f586c991e7d969817ca355c46768bc3208c9214a835134b5cc63d
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xrandr port to iOS. Installs to /usr/local
@@ -2023,12 +2023,12 @@ Package: com.maxleiter.xrdb
 Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xrdb.deb
 Size: 16640
-MD5sum: 9342614f3042c45399f9eeb2d724fc6e
-SHA1: 29e9d8222df0c0321bdf20b96c2b18333cb9547e
-SHA256: ce7503a098c2d17d1687d14d0ee175ae8391973fc4dcfa013a4881ee01f1931d
+MD5sum: e060440b0ee4ec13e52933e63c6ade49
+SHA1: 510720784b43f2e861f8ec353931d95124bb5233
+SHA256: acc68da61ef7f25921f1e8047574624378f4ed97ab732b58a2b494c346206dce
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xrdb port to iOS. Installs to /usr/local
@@ -2040,12 +2040,12 @@ Package: com.maxleiter.xrefresh
 Version: 1.0.6
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xrefresh.deb
 Size: 6084
-MD5sum: e27161db0213f1d81cc82e75263bb1ef
-SHA1: 058d298ea7a1a9f6fc3364438d9fbbaf0a7d7806
-SHA256: ed915252fbce65c665dcf5a3f7f102d9c88b05237edf3b18711b264ea76b6c6e
+MD5sum: ab4da7388d8c0854e42e24eebee210cb
+SHA1: 6635c3dff6a999752431467d47bae6bc2563a6f5
+SHA256: 561337fd0d773f524292aaa1782b60d7ea8977f832003f133b9b8568c4035ab0
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xrefresh port to iOS. Installs to /usr/local
@@ -2057,12 +2057,12 @@ Package: com.maxleiter.xset
 Version: 1.2.4
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xset.deb
 Size: 15664
-MD5sum: f6bb63c37511e1ff12a2ffa2dfa96899
-SHA1: 41fd1c2d20567025a524fe6fd7350973800e2389
-SHA256: d6116ca2791d55fe47a12d91dfdcc66a4605ec282a9a413b8326797cad7cb72f
+MD5sum: b5faced239815d23eb1afaac04ce8c50
+SHA1: c5fb3c4ae8907394fdf879cb1c28861f96ce6615
+SHA256: 9258b3b120f8beee05365be1d7bbaa7386e747579954a495294b4f314bbbe558
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xset port to iOS. Installs to /usr/local
@@ -2074,12 +2074,12 @@ Package: com.maxleiter.xsetroot
 Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xsetroot.deb
-Size: 9012
-MD5sum: ebe9a236d5cf900789f688d741d56cfc
-SHA1: 52c0019d8680651d06342b32e23c05736d5ea9cc
-SHA256: 518e371efe037ccf3479e3237b07c99121d0ff1a918ec1a2c8887206e7d76a8d
+Size: 9008
+MD5sum: d8bb572fb9bc87ba434897def0dab8e2
+SHA1: dacde1c1427c983ab4ad2a98af86e1891510cf37
+SHA256: 6147b8431f141081fcb01bfe7f2b58742728c30df76488b79d7d48c73aba5ad6
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xsetroot port to iOS. Installs to /usr/local
@@ -2091,12 +2091,12 @@ Package: com.maxleiter.xtrans
 Version: 4.11.0+dev0-2019-10-18
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xtrans.deb
 Size: 43064
-MD5sum: d23fcf6c5418f91589bb6c7f4fa292df
-SHA1: c61cbf3b52ea91f1ca5fe8a1a2ce8949c8a69868
-SHA256: 5768cce38e1e1960cd4795b80afd800c8e5b75b8b1a3307f6f3553765df58ad4
+MD5sum: 732c1501295ebb588146ca80ed6d2580
+SHA1: 6c94dbef2e5fe73b194daefc2d8e35d27005acaf
+SHA256: 98a11fbc309a76d5ba8c368c24c0595b943fa85710ffacac13864f03953af212
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xtrans port to iOS. Installs to /usr/local
@@ -2108,12 +2108,12 @@ Package: com.maxleiter.xvinfo
 Version: 1.1.4
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xvinfo.deb
-Size: 5804
-MD5sum: 69c77f8ea9fade589363086aff042c6e
-SHA1: 6d8da23e35f81cd922657e950b81a989df0b394c
-SHA256: d295c643c6dff1bd0d3a905fc4c83b91abf8141bc23fd2319a964390b73595a6
+Size: 5800
+MD5sum: fe4ccd2fef052e3046e8e391535cfa95
+SHA1: a61a2c86b62f091ea8e034a978b4dc86f794fbcb
+SHA256: be47b5c5accf3e4ef875afd2dcc9a20e4b23a72f9d071ac55858678f8a97e049
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xvinfo port to iOS. Installs to /usr/local
@@ -2125,12 +2125,12 @@ Package: com.maxleiter.xwd
 Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xwd.deb
 Size: 15064
-MD5sum: d09bdca603de14f5d6cbebbccbaf772a
-SHA1: 825aaa759f4c31c24a459cda56623e318b7dd0e3
-SHA256: 0d3c915042d078e69f5987cbcfcfbd518ace2be3efb2f2df0158ae53dced0d4d
+MD5sum: 7e532584526eebbfed0b9360131f13e0
+SHA1: 3dc350c11e6108255d07ea0a51cf3d11324367c0
+SHA256: dfbc6d1df824c835a042b6c76f28bb640e1c16d9b4584c1dc285e6621610bab9
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xwd port to iOS. Installs to /usr/local
@@ -2142,12 +2142,12 @@ Package: com.maxleiter.xwininfo
 Version: 1.1.4
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xwininfo.deb
 Size: 19440
-MD5sum: 75ba2de619f9bb58e19bb198478a297a
-SHA1: d115785d0909dc7cf2e6f722325c7d1d170ce927
-SHA256: 1d6d41fe9eab9f3c7bdefb31aa2ccbba0ee4636c011c1f238376e1731d2f5314
+MD5sum: 55e3aa0eba8e6dcd0ed5826c555802df
+SHA1: e0bde9b0defe927a409ffde7cd3ad10f6830802a
+SHA256: 9536994392b33115a041610314a79391426cf457019f3ca5367896b30e5a0a8e
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xwininfo port to iOS. Installs to /usr/local
@@ -2159,12 +2159,12 @@ Package: com.maxleiter.xwud
 Version: 1.1.4
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.xwud.deb
 Size: 13188
-MD5sum: 439c337a65a0dcd7b23228559e0a3085
-SHA1: f923f06089ecd64afa26dd65332fc5db97be8341
-SHA256: b1c2bd8633bca8a9ba9b9d3ea4e2e91e1e40e2a91c59b131e100fc7a4d32c399
+MD5sum: e3e3aba74543da4503457db9fda999cb
+SHA1: 29b76aa681ce7805b22ce7674a67867b0ba63171
+SHA256: 33529b64139234ba137b2c1d695672d886018dca81d3e60834f6a8e3ede34ecb
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: xwud port to iOS. Installs to /usr/local
@@ -2176,12 +2176,12 @@ Package: com.maxleiter.yajl
 Version: 2.1.0
 Architecture: iphoneos-arm
 Maintainer: Max L (maxwell.leiter@gmail.com)
-Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-utils
+Depends: com.maxleiter.libpng, com.maxleiter.mesa, com.maxleiter.xbitmaps, com.maxleiter.xcb-util
 Filename: ./debs/com.maxleiter.yajl.deb
 Size: 31076
-MD5sum: e3d4d2267b31586f94162b25f16ed84e
-SHA1: 42678078b861c2b7bd8c03526c5267422dcf58bb
-SHA256: 79660be65f0258bb54c27e72929325841e7c8adc75bc33201a8779fbf23d72ae
+MD5sum: 9f965afc3e8172de7798e4479fe8579e
+SHA1: 9897665cc35cad822ef95a3d75a998746470a5ab
+SHA256: f2b52847b73bc99f1cae4d1d0bbb0afd3d39d141b5a23122cc5bd6320cd37fd6
 Section: X11
 Homepage: https://github.com/maxleiter/cydia
 Description: yajl port to iOS. Installs to /usr/local
