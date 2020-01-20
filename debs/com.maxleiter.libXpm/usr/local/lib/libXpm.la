@@ -17,7 +17,7 @@ old_library=''
 inherited_linker_flags=' '
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/usr/local/lib /usr/local/lib/libxcb.la /usr/local/lib/libXau.la /usr/local/lib/libXdmcp.la /usr/local/lib/libintl.la -lc'
+dependency_libs=' -L/usr/local/lib /usr/local/lib/libX11.la /usr/local/lib/libxcb.la /usr/local/lib/libXau.la /usr/local/lib/libXdmcp.la /usr/local/lib/libintl.la -lc'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''

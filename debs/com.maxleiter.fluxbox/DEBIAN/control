@@ -1,0 +1,11 @@
+Package: com.maxleiter.fluxbox
+Name: fluxbox
+Version: 1.3.7
+Architecture: iphoneos-arm
+Description: fluxbox window manager. Installs to /usr/local.
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Window Managers
+Depends: com.maxleiter.xorglibraries
