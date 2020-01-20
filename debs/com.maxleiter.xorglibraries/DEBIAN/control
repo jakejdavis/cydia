@@ -1,0 +1,11 @@
+Package: com.maxleiter.xorglibraries
+Name: Xorg Libraries
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Xorg Libraries meta package
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: X11
+Depends: com.maxleiter.fontconfig, com.maxleiter.libxcb, com.maxleiter.xtrans, com.maxleiter.libX11, com.maxleiter.libXext, com.maxleiter.libFS, com.maxleiter.libICE, com.maxleiter.libSM, com.maxleiter.libXScrnSaver, com.maxleiter.libXt, com.maxleiter.libXmu, com.maxleiter.libXpm, com.maxleiter.libXaw, com.maxleiter.libXfixes, com.maxleiter.libXcomposite, com.maxleiter.libXrender, com.maxleiter.libXcursor, com.maxleiter.libXdamage, com.maxleiter.libfontenc, com.maxleiter.libXfont2, com.maxleiter.libXft, com.maxleiter.libXi, com.maxleiter.libXinerama, com.maxleiter.libXrandr, com.maxleiter.libXres, com.maxleiter.libXtst, com.maxleiter.libXv, com.maxleiter.libXvMC, com.maxleiter.libXxf86dga, com.maxleiter.libXxf86vm, com.maxleiter.libdmx, com.maxleiter.libxkbfile, com.maxleiter.libxshmfence
