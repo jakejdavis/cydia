@@ -8,4 +8,4 @@ Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
 Maintainer: Max L (maxwell.leiter@gmail.com)
 Author: Max L
 Section: X11
-Depends: gnutls, gcrypt, libjpeg-turbo, com.maxleiter.pixman, xorgapplications, xorglegacy, com.maxleiter.xvnc
+Depends: gnutls, gcrypt, libjpeg-turbo, com.maxleiter.pixman, com.maxleiter.xorgapplications, com.maxleiter.xorglegacy, com.maxleiter.xvnc
