@@ -16,4 +16,3 @@ ln -svfn /usr/local/share/fonts/X11/TTF /usr/share/fonts/X11-TTF
 /usr/local/bin/fc-cache /usr/local/share/fonts/X11/TTF
 /usr/local/bin/fc-cache /usr/local/share/fonts/X11/100dpi
 /usr/local/bin/fc-cache /usr/local/share/fonts/X11/75dpi
-/usr/local/bin/fc-cache /usr/local/share/fonts/X11/misc
