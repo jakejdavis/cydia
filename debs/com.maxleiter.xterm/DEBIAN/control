@@ -1,0 +1,11 @@
+Package: com.maxleiter.xterm
+Name: xterm
+Version: 0.52.1
+Architecture: iphoneos-arm
+Description: xterm ported to iOS. Installs to /usr/local.
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Development
+Depends: com.maxleiter.xorgapps

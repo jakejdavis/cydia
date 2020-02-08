@@ -1,0 +1,11 @@
+Package: com.maxleiter.dillo
+Name: dillo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: dillo web browser. no JS or SSL. Installs to /usr/local
+Homepage: https://github.com/maxleiter/cydia
+Depiction: https://maxleiter.com/cydia/depictions/?p=com.maxleiter.temp
+Maintainer: Max L (maxwell.leiter@gmail.com)
+Author: Max L
+Section: Applications
+Depends: com.maxleiter.xcursor-themes

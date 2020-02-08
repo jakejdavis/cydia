@@ -44,9 +44,9 @@ CXX="clang++-10"
 
 # flags for C++ compiler:
 ARCHFLAGS=""
-CFLAGS="-I/usr/local/include -I/usr/include/libpng16 -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/harfbuzz -I/usr/local/include/glib-2.0 -I/usr/local/lib/glib-2.0/include -miphoneos-version-min=11.2 -isysroot /usr/share/SDKs/iPhoneOS.sdk  -I/usr/X11R6/include -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_THREAD_SAFE -D_REENTRANT"
-CXXFLAGS="-I/usr/local/include -I/usr/include/libpng16 -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/harfbuzz -I/usr/local/include/glib-2.0 -I/usr/local/lib/glib-2.0/include -miphoneos-version-min=11.2 -isysroot /usr/share/SDKs/iPhoneOS.sdk  -I/usr/X11R6/include -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_THREAD_SAFE -D_REENTRANT"
-LDFLAGS=" -L/usr/X11R6/lib -miphoneos-version-min=11.2"
+CFLAGS="-I/usr/local/include -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/local/include -I/usr/local/include/harfbuzz -I/usr/local/include/glib-2.0 -I/usr/local/lib/glib-2.0/include -I/usr/include -I/usr/local/include -miphoneos-version-min=11.2 -isysroot /usr/share/SDKs/iPhoneOS.sdk  -I/usr/X11R6/include -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_THREAD_SAFE -D_REENTRANT"
+CXXFLAGS="-I/usr/local/include -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/local/include -I/usr/local/include/harfbuzz -I/usr/local/include/glib-2.0 -I/usr/local/lib/glib-2.0/include -miphoneos-version-min=11.2 -isysroot /usr/share/SDKs/iPhoneOS.sdk  -I/usr/X11R6/include -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_THREAD_SAFE -D_REENTRANT"
+LDFLAGS=" -L/usr/lib -L/usr/local/lib -miphoneos-version-min=11.2"
 LDLIBS="-lXrender -lXcursor -lXfixes -lXext -lXft -lfontconfig -lXinerama -lpthread  -lX11 "
 OPTIM=" -Os -Wno-deprecated-declarations -Wall -Wunused -Wno-format-y2k    -fno-exceptions -fno-strict-aliasing"
 CAIROFLAGS=""
@@ -86,8 +86,8 @@ fi
 LIBNAME="../lib/libfltk.a"
 DSONAME=""
 DSOLINK=""
-IMAGELIBS="-lfltk_png -lz -lfltk_jpeg "
-STATICIMAGELIBS="$libdir/libfltk_png.a -lz $libdir/libfltk_jpeg.a "
+IMAGELIBS="-lpng -lz -ljpeg "
+STATICIMAGELIBS="-lpng -lz -ljpeg "
 CAIROLIBS=""
 SHAREDSUFFIX=""
 
